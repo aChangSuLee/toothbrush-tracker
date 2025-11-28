@@ -1,0 +1,442 @@
+[
+  {
+    "id": "fancy_apple_curry",
+    "name": "Fancy Apple Curry",
+    "ingredients": [
+      {
+        "name": "Fancy Apple",
+        "amount": 7
+      }
+    ],
+    "totalIngredients": 7,
+    "energy": 668
+  },
+  {
+    "id": "simple_chowder",
+    "name": "Simple Chowder",
+    "ingredients": [
+      {
+        "name": "Moomoo Milk",
+        "amount": 7
+      }
+    ],
+    "totalIngredients": 7,
+    "energy": 727
+  },
+  {
+    "id": "mild_honey_curry",
+    "name": "Mild Honey Curry",
+    "ingredients": [
+      {
+        "name": "Honey",
+        "amount": 7
+      }
+    ],
+    "totalIngredients": 7,
+    "energy": 749
+  },
+  {
+    "id": "beanburger_curry",
+    "name": "Beanburger Curry",
+    "ingredients": [
+      {
+        "name": "Bean Sausage",
+        "amount": 7
+      }
+    ],
+    "totalIngredients": 7,
+    "energy": 764
+  },
+  {
+    "id": "hearty_cheeseburger_curry",
+    "name": "Hearty Cheeseburger Curry",
+    "ingredients": [
+      {
+        "name": "Moomoo Milk",
+        "amount": 8
+      },
+      {
+        "name": "Bean Sausage",
+        "amount": 8
+      }
+    ],
+    "totalIngredients": 16,
+    "energy": 1785
+  },
+  {
+    "id": "drought_katsu_curry",
+    "name": "“Drought” Katsu Curry",
+    "ingredients": [
+      {
+        "name": "Bean Sausage",
+        "amount": 10
+      },
+      {
+        "name": "Pure Oil",
+        "amount": 5
+      }
+    ],
+    "totalIngredients": 15,
+    "energy": 1815
+  },
+  {
+    "id": "solar_power_tomato_curry",
+    "name": "“Solar Power” Tomato Curry",
+    "ingredients": [
+      {
+        "name": "Snoozy Tomato",
+        "amount": 10
+      },
+      {
+        "name": "Fiery Herb",
+        "amount": 5
+      }
+    ],
+    "totalIngredients": 15,
+    "energy": 1943
+  },
+  {
+    "id": "melty_omelette_curry",
+    "name": "Melty Omelette Curry",
+    "ingredients": [
+      {
+        "name": "Fancy Egg",
+        "amount": 10
+      },
+      {
+        "name": "Snoozy Tomato",
+        "amount": 6
+      }
+    ],
+    "totalIngredients": 16,
+    "energy": 2009
+  },
+  {
+    "id": "soft_potato_chowder",
+    "name": "Soft Potato Chowder",
+    "ingredients": [
+      {
+        "name": "Moomoo Milk",
+        "amount": 10
+      },
+      {
+        "name": "Soft Potato",
+        "amount": 8
+      },
+      {
+        "name": "Tasty Mushroom",
+        "amount": 4
+      }
+    ],
+    "totalIngredients": 22,
+    "energy": 3089
+  },
+  {
+    "id": "bulk_up_bean_curry",
+    "name": "“Bulk Up” Bean Curry",
+    "ingredients": [
+      {
+        "name": "Greengrass Soybeans",
+        "amount": 12
+      },
+      {
+        "name": "Bean Sausage",
+        "amount": 6
+      },
+      {
+        "name": "Fiery Herb",
+        "amount": 4
+      },
+      {
+        "name": "Fancy Egg",
+        "amount": 4
+      }
+    ],
+    "totalIngredients": 26,
+    "energy": 3274
+  },
+  {
+    "id": "spore_mushroom_curry",
+    "name": "“Spore” Mushroom Curry",
+    "ingredients": [
+      {
+        "name": "Soft Potato",
+        "amount": 9
+      },
+      {
+        "name": "Tasty Mushroom",
+        "amount": 14
+      }
+    ],
+    "totalIngredients": 23,
+    "energy": 4041
+  },
+  {
+    "id": "egg_bomb_curry",
+    "name": "“Egg Bomb” Curry",
+    "ingredients": [
+      {
+        "name": "Soft Potato",
+        "amount": 4
+      },
+      {
+        "name": "Fancy Apple",
+        "amount": 11
+      },
+      {
+        "name": "Fancy Egg",
+        "amount": 8
+      },
+      {
+        "name": "Honey",
+        "amount": 12
+      }
+    ],
+    "totalIngredients": 35,
+    "energy": 4523
+  },
+  {
+    "id": "limber_corn_stew",
+    "name": "“Limber” Corn Stew",
+    "ingredients": [
+      {
+        "name": "Greengrass Corn",
+        "amount": 14
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 8
+      },
+      {
+        "name": "Soft Potato",
+        "amount": 8
+      }
+    ],
+    "totalIngredients": 30,
+    "energy": 4670
+  },
+  {
+    "id": "dizzy_punch_spicy_curry",
+    "name": "“Dizzy Punch” Spicy Curry",
+    "ingredients": [
+      {
+        "name": "Rousing Coffee",
+        "amount": 11
+      },
+      {
+        "name": "Fiery Herb",
+        "amount": 11
+      },
+      {
+        "name": "Honey",
+        "amount": 11
+      }
+    ],
+    "totalIngredients": 33,
+    "energy": 5702
+  },
+  {
+    "id": "spicy_leek_curry",
+    "name": "Spicy Leek Curry",
+    "ingredients": [
+      {
+        "name": "Large Leek",
+        "amount": 14
+      },
+      {
+        "name": "Fiery Herb",
+        "amount": 8
+      },
+      {
+        "name": "Warming Ginger",
+        "amount": 10
+      }
+    ],
+    "totalIngredients": 32,
+    "energy": 5900
+  },
+  {
+    "id": "grilled_tail_curry",
+    "name": "Grilled Tail Curry",
+    "ingredients": [
+      {
+        "name": "Fiery Herb",
+        "amount": 25
+      },
+      {
+        "name": "Slowpoke Tail",
+        "amount": 8
+      }
+    ],
+    "totalIngredients": 33,
+    "energy": 7483
+  },
+  {
+    "id": "dream_eater_butter_curry",
+    "name": "“Dream Eater” Butter Curry",
+    "ingredients": [
+      {
+        "name": "Soothing Cacao",
+        "amount": 12
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 10
+      },
+      {
+        "name": "Soft Potato",
+        "amount": 18
+      },
+      {
+        "name": "Snoozy Tomato",
+        "amount": 15
+      }
+    ],
+    "totalIngredients": 55,
+    "energy": 9010
+  },
+  {
+    "id": "ninja_curry",
+    "name": "Ninja Curry",
+    "ingredients": [
+      {
+        "name": "Greengrass Soybeans",
+        "amount": 24
+      },
+      {
+        "name": "Bean Sausage",
+        "amount": 9
+      },
+      {
+        "name": "Large Leek",
+        "amount": 12
+      },
+      {
+        "name": "Tasty Mushroom",
+        "amount": 5
+      }
+    ],
+    "totalIngredients": 50,
+    "energy": 9445
+  },
+  {
+    "id": "inferno_corn_keema_curry",
+    "name": "“Inferno” Corn Keema Curry",
+    "ingredients": [
+      {
+        "name": "Fiery Herb",
+        "amount": 27
+      },
+      {
+        "name": "Bean Sausage",
+        "amount": 24
+      },
+      {
+        "name": "Greengrass Corn",
+        "amount": 14
+      },
+      {
+        "name": "Warming Ginger",
+        "amount": 12
+      }
+    ],
+    "totalIngredients": 77,
+    "energy": 13690
+  },
+  {
+    "id": "role_play_pumpkaboo_stew",
+    "name": "“Role Play” Pumpkaboo Stew",
+    "ingredients": [
+      {
+        "name": "Plump Pumpkin",
+        "amount": 10
+      },
+      {
+        "name": "Bean Sausage",
+        "amount": 16
+      },
+      {
+        "name": "Soft Potato",
+        "amount": 18
+      },
+      {
+        "name": "Tasty Mushroom",
+        "amount": 25
+      }
+    ],
+    "totalIngredients": 69,
+    "energy": 15621
+  },
+  {
+    "id": "hidden_power_perkup_stew",
+    "name": "“Hidden Power” Perk-Up Stew",
+    "ingredients": [
+      {
+        "name": "Greengrass Soybeans",
+        "amount": 28
+      },
+      {
+        "name": "Snoozy Tomato",
+        "amount": 25
+      },
+      {
+        "name": "Tasty Mushroom",
+        "amount": 23
+      },
+      {
+        "name": "Rousing Coffee",
+        "amount": 16
+      }
+    ],
+    "totalIngredients": 92,
+    "energy": 19061
+  },
+  {
+    "id": "cut_sukiyaki_curry",
+    "name": "“Cut” Sukiyaki Curry",
+    "ingredients": [
+      {
+        "name": "Large Leek",
+        "amount": 27
+      },
+      {
+        "name": "Bean Sausage",
+        "amount": 26
+      },
+      {
+        "name": "Honey",
+        "amount": 26
+      },
+      {
+        "name": "Fancy Egg",
+        "amount": 22
+      }
+    ],
+    "totalIngredients": 101,
+    "energy": 20655
+  },
+  {
+    "id": "overgrow_avocado_gratin",
+    "name": "“Overgrow” Avocado Gratin",
+    "ingredients": [
+      {
+        "name": "Glossy Avocado",
+        "amount": 22
+      },
+      {
+        "name": "Soft Potato",
+        "amount": 20
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 41
+      },
+      {
+        "name": "Pure Oil",
+        "amount": 32
+      }
+    ],
+    "totalIngredients": 115,
+    "energy": 24802
+  }
+]

@@ -1,0 +1,490 @@
+[
+  {
+    "id": "fancy_apple_salad",
+    "name": "Fancy Apple Salad",
+    "ingredients": [
+      {
+        "name": "Fancy Apple",
+        "amount": 8
+      }
+    ],
+    "totalIngredients": 8,
+    "energy": 763
+  },
+  {
+    "id": "bean_ham_salad",
+    "name": "Bean Ham Salad",
+    "ingredients": [
+      {
+        "name": "Bean Sausage",
+        "amount": 8
+      }
+    ],
+    "totalIngredients": 8,
+    "energy": 873
+  },
+  {
+    "id": "snoozy_tomato_salad",
+    "name": "Snoozy Tomato Salad",
+    "ingredients": [
+      {
+        "name": "Snoozy Tomato",
+        "amount": 8
+      }
+    ],
+    "totalIngredients": 8,
+    "energy": 933
+  },
+  {
+    "id": "snow_cloak_caesar_salad",
+    "name": "“Snow Cloak” Caesar Salad",
+    "ingredients": [
+      {
+        "name": "Moomoo Milk",
+        "amount": 10
+      },
+      {
+        "name": "Bean Sausage",
+        "amount": 6
+      }
+    ],
+    "totalIngredients": 16,
+    "energy": 1774
+  },
+  {
+    "id": "heat_wave_tofu_salad",
+    "name": "“Heat Wave” Tofu Salad",
+    "ingredients": [
+      {
+        "name": "Greengrass Soybeans",
+        "amount": 10
+      },
+      {
+        "name": "Fiery Herb",
+        "amount": 6
+      }
+    ],
+    "totalIngredients": 16,
+    "energy": 1976
+  },
+  {
+    "id": "dazzling_apple_cheese_salad",
+    "name": "“Dazzling” Apple Cheese Salad",
+    "ingredients": [
+      {
+        "name": "Fancy Apple",
+        "amount": 15
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 5
+      },
+      {
+        "name": "Pure Oil",
+        "amount": 3
+      }
+    ],
+    "totalIngredients": 23,
+    "energy": 2578
+  },
+  {
+    "id": "immunity_leek_salad",
+    "name": "“Immunity” Leek Salad",
+    "ingredients": [
+      {
+        "name": "Large Leek",
+        "amount": 10
+      },
+      {
+        "name": "Warming Ginger",
+        "amount": 5
+      }
+    ],
+    "totalIngredients": 15,
+    "energy": 2658
+  },
+  {
+    "id": "fury_attack_corn_salad",
+    "name": "“Fury Attack” Corn Salad",
+    "ingredients": [
+      {
+        "name": "Greengrass Corn",
+        "amount": 9
+      },
+      {
+        "name": "Pure Oil",
+        "amount": 8
+      }
+    ],
+    "totalIngredients": 17,
+    "energy": 2785
+  },
+  {
+    "id": "moomoo_caprese_salad",
+    "name": "Moomoo Caprese Salad",
+    "ingredients": [
+      {
+        "name": "Moomoo Milk",
+        "amount": 12
+      },
+      {
+        "name": "Snoozy Tomato",
+        "amount": 6
+      },
+      {
+        "name": "Pure Oil",
+        "amount": 5
+      }
+    ],
+    "totalIngredients": 23,
+    "energy": 2856
+  },
+  {
+    "id": "superpower_extreme_salad",
+    "name": "“Superpower” Extreme Salad",
+    "ingredients": [
+      {
+        "name": "Bean Sausage",
+        "amount": 9
+      },
+      {
+        "name": "Soft Potato",
+        "amount": 3
+      },
+      {
+        "name": "Fancy Egg",
+        "amount": 5
+      },
+      {
+        "name": "Warming Ginger",
+        "amount": 6
+      }
+    ],
+    "totalIngredients": 23,
+    "energy": 2958
+  },
+  {
+    "id": "water_veil_tofu_salad",
+    "name": "“Water Veil” Tofu Salad",
+    "ingredients": [
+      {
+        "name": "Greengrass Soybeans",
+        "amount": 15
+      },
+      {
+        "name": "Snoozy Tomato",
+        "amount": 9
+      }
+    ],
+    "totalIngredients": 24,
+    "energy": 3113
+  },
+  {
+    "id": "contrary_chocolate_meat_salad",
+    "name": "“Contrary” Chocolate Meat Salad",
+    "ingredients": [
+      {
+        "name": "Soothing Cacao",
+        "amount": 14
+      },
+      {
+        "name": "Bean Sausage",
+        "amount": 9
+      }
+    ],
+    "totalIngredients": 23,
+    "energy": 3558
+  },
+  {
+    "id": "gluttony_potato_salad",
+    "name": "“Gluttony” Potato Salad",
+    "ingredients": [
+      {
+        "name": "Bean Sausage",
+        "amount": 7
+      },
+      {
+        "name": "Soft Potato",
+        "amount": 14
+      },
+      {
+        "name": "Fancy Apple",
+        "amount": 6
+      },
+      {
+        "name": "Fancy Egg",
+        "amount": 9
+      }
+    ],
+    "totalIngredients": 36,
+    "energy": 5040
+  },
+  {
+    "id": "overheat_ginger_salad",
+    "name": "“Overheat” Ginger Salad",
+    "ingredients": [
+      {
+        "name": "Fiery Herb",
+        "amount": 17
+      },
+      {
+        "name": "Warming Ginger",
+        "amount": 10
+      },
+      {
+        "name": "Snoozy Tomato",
+        "amount": 8
+      }
+    ],
+    "totalIngredients": 35,
+    "energy": 5225
+  },
+  {
+    "id": "spore_mushroom_salad",
+    "name": "“Spore” Mushroom Salad",
+    "ingredients": [
+      {
+        "name": "Pure Oil",
+        "amount": 8
+      },
+      {
+        "name": "Snoozy Tomato",
+        "amount": 8
+      },
+      {
+        "name": "Tasty Mushroom",
+        "amount": 17
+      }
+    ],
+    "totalIngredients": 33,
+    "energy": 5859
+  },
+  {
+    "id": "luscious_avocado_salad",
+    "name": "Luscious Avocado Salad",
+    "ingredients": [
+      {
+        "name": "Glossy Avocado",
+        "amount": 14
+      },
+      {
+        "name": "Greengrass Soybeans",
+        "amount": 18
+      },
+      {
+        "name": "Pure Oil",
+        "amount": 10
+      }
+    ],
+    "totalIngredients": 42,
+    "energy": 7125
+  },
+  {
+    "id": "calm_mind_fruit_salad",
+    "name": "“Calm Mind” Fruit Salad",
+    "ingredients": [
+      {
+        "name": "Fancy Apple",
+        "amount": 21
+      },
+      {
+        "name": "Honey",
+        "amount": 16
+      },
+      {
+        "name": "Greengrass Corn",
+        "amount": 12
+      }
+    ],
+    "totalIngredients": 49,
+    "energy": 7675
+  },
+  {
+    "id": "slowpoke_tail_pepper_salad",
+    "name": "Slowpoke Tail Pepper Salad",
+    "ingredients": [
+      {
+        "name": "Pure Oil",
+        "amount": 15
+      },
+      {
+        "name": "Fiery Herb",
+        "amount": 10
+      },
+      {
+        "name": "Slowpoke Tail",
+        "amount": 10
+      }
+    ],
+    "totalIngredients": 35,
+    "energy": 8169
+  },
+  {
+    "id": "cross_chop_salad",
+    "name": "“Cross Chop” Salad",
+    "ingredients": [
+      {
+        "name": "Fancy Egg",
+        "amount": 20
+      },
+      {
+        "name": "Bean Sausage",
+        "amount": 15
+      },
+      {
+        "name": "Greengrass Corn",
+        "amount": 11
+      },
+      {
+        "name": "Snoozy Tomato",
+        "amount": 10
+      }
+    ],
+    "totalIngredients": 56,
+    "energy": 8755
+  },
+  {
+    "id": "greengrass_salad",
+    "name": "Greengrass Salad",
+    "ingredients": [
+      {
+        "name": "Pure Oil",
+        "amount": 22
+      },
+      {
+        "name": "Greengrass Corn",
+        "amount": 17
+      },
+      {
+        "name": "Snoozy Tomato",
+        "amount": 14
+      },
+      {
+        "name": "Soft Potato",
+        "amount": 9
+      }
+    ],
+    "totalIngredients": 62,
+    "energy": 11393
+  },
+  {
+    "id": "ninja_salad",
+    "name": "Ninja Salad",
+    "ingredients": [
+      {
+        "name": "Greengrass Soybeans",
+        "amount": 19
+      },
+      {
+        "name": "Large Leek",
+        "amount": 15
+      },
+      {
+        "name": "Warming Ginger",
+        "amount": 11
+      },
+      {
+        "name": "Tasty Mushroom",
+        "amount": 12
+      }
+    ],
+    "totalIngredients": 57,
+    "energy": 11659
+  },
+  {
+    "id": "petal_blizzard_layered_salad",
+    "name": "“Petal Blizzard” Layered Salad",
+    "ingredients": [
+      {
+        "name": "Fancy Egg",
+        "amount": 25
+      },
+      {
+        "name": "Pure Oil",
+        "amount": 17
+      },
+      {
+        "name": "Soft Potato",
+        "amount": 15
+      },
+      {
+        "name": "Bean Sausage",
+        "amount": 12
+      }
+    ],
+    "totalIngredients": 69,
+    "energy": 11881
+  },
+  {
+    "id": "apple_acid_yogurt_salad",
+    "name": "“Apple Acid” Yogurt-Dressed Salad",
+    "ingredients": [
+      {
+        "name": "Fancy Egg",
+        "amount": 35
+      },
+      {
+        "name": "Fancy Apple",
+        "amount": 28
+      },
+      {
+        "name": "Snoozy Tomato",
+        "amount": 23
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 18
+      }
+    ],
+    "totalIngredients": 104,
+    "energy": 19293
+  },
+  {
+    "id": "defiant_coffee_salad",
+    "name": "“Defiant” Coffee-Dressed Salad",
+    "ingredients": [
+      {
+        "name": "Rousing Coffee",
+        "amount": 28
+      },
+      {
+        "name": "Bean Sausage",
+        "amount": 28
+      },
+      {
+        "name": "Pure Oil",
+        "amount": 22
+      },
+      {
+        "name": "Soft Potato",
+        "amount": 22
+      }
+    ],
+    "totalIngredients": 100,
+    "energy": 20218
+  },
+  {
+    "id": "bulldoze_guacamole_salad",
+    "name": "“Bulldoze” Guacamole and Chips",
+    "ingredients": [
+      {
+        "name": "Glossy Avocado",
+        "amount": 28
+      },
+      {
+        "name": "Greengrass Corn",
+        "amount": 25
+      },
+      {
+        "name": "Fiery Herb",
+        "amount": 30
+      },
+      {
+        "name": "Greengrass Soybeans",
+        "amount": 22
+      }
+    ],
+    "totalIngredients": 105,
+    "energy": 25162
+  }
+]

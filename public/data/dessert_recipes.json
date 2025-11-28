@@ -1,0 +1,502 @@
+[
+  {
+    "id": "warm_moomoo_milk",
+    "name": "Warm Moomoo Milk",
+    "ingredients": [
+      {
+        "name": "Moomoo Milk",
+        "amount": 7
+      }
+    ],
+    "totalIngredients": 7,
+    "energy": 727
+  },
+  {
+    "id": "fancy_apple_juice",
+    "name": "Fancy Apple Juice",
+    "ingredients": [
+      {
+        "name": "Fancy Apple",
+        "amount": 8
+      }
+    ],
+    "totalIngredients": 8,
+    "energy": 763
+  },
+  {
+    "id": "craft_soda_pop",
+    "name": "Craft Soda Pop",
+    "ingredients": [
+      {
+        "name": "Honey",
+        "amount": 9
+      }
+    ],
+    "totalIngredients": 9,
+    "energy": 964
+  },
+  {
+    "id": "lucky_chant_apple_pie",
+    "name": "“Lucky Chant” Apple Pie",
+    "ingredients": [
+      {
+        "name": "Fancy Apple",
+        "amount": 12
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 4
+      }
+    ],
+    "totalIngredients": 16,
+    "energy": 1634
+  },
+  {
+    "id": "fluffy_sweet_potatoes",
+    "name": "“Fluffy” Sweet Potatoes",
+    "ingredients": [
+      {
+        "name": "Moomoo Milk",
+        "amount": 5
+      },
+      {
+        "name": "Soft Potato",
+        "amount": 9
+      }
+    ],
+    "totalIngredients": 14,
+    "energy": 1783
+  },
+  {
+    "id": "ember_ginger_tea",
+    "name": "“Ember” Ginger Tea",
+    "ingredients": [
+      {
+        "name": "Fancy Apple",
+        "amount": 7
+      },
+      {
+        "name": "Warming Ginger",
+        "amount": 9
+      }
+    ],
+    "totalIngredients": 16,
+    "energy": 1788
+  },
+  {
+    "id": "cloud_nine_soy_cake",
+    "name": "“Cloud Nine” Soy Cake",
+    "ingredients": [
+      {
+        "name": "Fancy Egg",
+        "amount": 8
+      },
+      {
+        "name": "Greengrass Soybeans",
+        "amount": 7
+      }
+    ],
+    "totalIngredients": 15,
+    "energy": 1798
+  },
+  {
+    "id": "stalwart_vegetable_juice",
+    "name": "“Stalwart” Vegetable Juice",
+    "ingredients": [
+      {
+        "name": "Snoozy Tomato",
+        "amount": 9
+      },
+      {
+        "name": "Fancy Apple",
+        "amount": 7
+      }
+    ],
+    "totalIngredients": 16,
+    "energy": 1798
+  },
+  {
+    "id": "big_malasada",
+    "name": "Big Malasada",
+    "ingredients": [
+      {
+        "name": "Pure Oil",
+        "amount": 10
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 7
+      },
+      {
+        "name": "Honey",
+        "amount": 6
+      }
+    ],
+    "totalIngredients": 23,
+    "energy": 2927
+  },
+  {
+    "id": "hustle_protein_smoothie",
+    "name": "“Hustle” Protein Smoothie",
+    "ingredients": [
+      {
+        "name": "Greengrass Soybeans",
+        "amount": 15
+      },
+      {
+        "name": "Soothing Cacao",
+        "amount": 8
+      }
+    ],
+    "totalIngredients": 23,
+    "energy": 3168
+  },
+  {
+    "id": "sweet_scent_chocolate_cake",
+    "name": "“Sweet Scent” Chocolate Cake",
+    "ingredients": [
+      {
+        "name": "Moomoo Milk",
+        "amount": 7
+      },
+      {
+        "name": "Honey",
+        "amount": 9
+      },
+      {
+        "name": "Soothing Cacao",
+        "amount": 8
+      }
+    ],
+    "totalIngredients": 24,
+    "energy": 3280
+  },
+  {
+    "id": "petal_dance_chocolate_tart",
+    "name": "“Petal Dance” Chocolate Tart",
+    "ingredients": [
+      {
+        "name": "Soothing Cacao",
+        "amount": 11
+      },
+      {
+        "name": "Fancy Apple",
+        "amount": 11
+      }
+    ],
+    "totalIngredients": 22,
+    "energy": 3314
+  },
+  {
+    "id": "lovely_kiss_smoothie",
+    "name": "“Lovely Kiss” Smoothie",
+    "ingredients": [
+      {
+        "name": "Fancy Apple",
+        "amount": 11
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 9
+      },
+      {
+        "name": "Honey",
+        "amount": 7
+      },
+      {
+        "name": "Soothing Cacao",
+        "amount": 8
+      }
+    ],
+    "totalIngredients": 35,
+    "energy": 4734
+  },
+  {
+    "id": "steadfast_ginger_cookies",
+    "name": "“Steadfast” Ginger Cookies",
+    "ingredients": [
+      {
+        "name": "Honey",
+        "amount": 14
+      },
+      {
+        "name": "Warming Ginger",
+        "amount": 12
+      },
+      {
+        "name": "Soothing Cacao",
+        "amount": 5
+      },
+      {
+        "name": "Fancy Egg",
+        "amount": 4
+      }
+    ],
+    "totalIngredients": 35,
+    "energy": 4921
+  },
+  {
+    "id": "neroli_restorative_tea",
+    "name": "Neroli's Restorative Tea",
+    "ingredients": [
+      {
+        "name": "Fancy Apple",
+        "amount": 15
+      },
+      {
+        "name": "Warming Ginger",
+        "amount": 11
+      },
+      {
+        "name": "Tasty Mushroom",
+        "amount": 9
+      }
+    ],
+    "totalIngredients": 35,
+    "energy": 5065
+  },
+  {
+    "id": "huge_power_soy_donuts",
+    "name": "“Huge Power” Soy Donuts",
+    "ingredients": [
+      {
+        "name": "Pure Oil",
+        "amount": 12
+      },
+      {
+        "name": "Greengrass Soybeans",
+        "amount": 16
+      },
+      {
+        "name": "Soothing Cacao",
+        "amount": 7
+      }
+    ],
+    "totalIngredients": 35,
+    "energy": 5547
+  },
+  {
+    "id": "explosion_popcorn",
+    "name": "“Explosion” Popcorn",
+    "ingredients": [
+      {
+        "name": "Greengrass Corn",
+        "amount": 15
+      },
+      {
+        "name": "Pure Oil",
+        "amount": 14
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 7
+      }
+    ],
+    "totalIngredients": 36,
+    "energy": 6048
+  },
+  {
+    "id": "early_bird_coffee_jelly",
+    "name": "“Early Bird” Coffee Jelly",
+    "ingredients": [
+      {
+        "name": "Rousing Coffee",
+        "amount": 16
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 14
+      },
+      {
+        "name": "Honey",
+        "amount": 12
+      }
+    ],
+    "totalIngredients": 42,
+    "energy": 6739
+  },
+  {
+    "id": "mold_breaker_corn_tiramisu",
+    "name": "“Mold Breaker” Corn Tiramisu",
+    "ingredients": [
+      {
+        "name": "Rousing Coffee",
+        "amount": 14
+      },
+      {
+        "name": "Greengrass Corn",
+        "amount": 14
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 12
+      }
+    ],
+    "totalIngredients": 40,
+    "energy": 7125
+  },
+  {
+    "id": "jigglypuff_fruity_flan",
+    "name": "Jigglypuff's Fruity Flan",
+    "ingredients": [
+      {
+        "name": "Honey",
+        "amount": 20
+      },
+      {
+        "name": "Fancy Egg",
+        "amount": 15
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 10
+      },
+      {
+        "name": "Fancy Apple",
+        "amount": 10
+      }
+    ],
+    "totalIngredients": 55,
+    "energy": 7594
+  },
+  {
+    "id": "leaf_tornado_smoothie",
+    "name": "“Leaf Tornado” Smoothie",
+    "ingredients": [
+      {
+        "name": "Glossy Avocado",
+        "amount": 18
+      },
+      {
+        "name": "Snoozy Tomato",
+        "amount": 16
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 14
+      }
+    ],
+    "totalIngredients": 48,
+    "energy": 8165
+  },
+  {
+    "id": "teatime_corn_scones",
+    "name": "“Teatime” Corn Scones",
+    "ingredients": [
+      {
+        "name": "Fancy Apple",
+        "amount": 20
+      },
+      {
+        "name": "Warming Ginger",
+        "amount": 20
+      },
+      {
+        "name": "Greengrass Corn",
+        "amount": 18
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 9
+      }
+    ],
+    "totalIngredients": 67,
+    "energy": 10925
+  },
+  {
+    "id": "flower_gift_macarons",
+    "name": "“Flower Gift” Macarons",
+    "ingredients": [
+      {
+        "name": "Soothing Cacao",
+        "amount": 25
+      },
+      {
+        "name": "Fancy Egg",
+        "amount": 25
+      },
+      {
+        "name": "Honey",
+        "amount": 17
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 10
+      }
+    ],
+    "totalIngredients": 77,
+    "energy": 13834
+  },
+  {
+    "id": "zing_zap_spiced_cola",
+    "name": "“Zing Zap” Spiced Cola",
+    "ingredients": [
+      {
+        "name": "Fancy Apple",
+        "amount": 35
+      },
+      {
+        "name": "Warming Ginger",
+        "amount": 20
+      },
+      {
+        "name": "Large Leek",
+        "amount": 20
+      },
+      {
+        "name": "Rousing Coffee",
+        "amount": 12
+      }
+    ],
+    "totalIngredients": 87,
+    "energy": 17494
+  },
+  {
+    "id": "clodsire_eclair",
+    "name": "Clodsire Eclair",
+    "ingredients": [
+      {
+        "name": "Soothing Cacao",
+        "amount": 30
+      },
+      {
+        "name": "Moomoo Milk",
+        "amount": 26
+      },
+      {
+        "name": "Rousing Coffee",
+        "amount": 24
+      },
+      {
+        "name": "Honey",
+        "amount": 22
+      }
+    ],
+    "totalIngredients": 102,
+    "energy": 20885
+  },
+  {
+    "id": "scary_face_pancakes",
+    "name": "“Scary Face” Pancakes",
+    "ingredients": [
+      {
+        "name": "Plump Pumpkin",
+        "amount": 18
+      },
+      {
+        "name": "Fancy Egg",
+        "amount": 24
+      },
+      {
+        "name": "Honey",
+        "amount": 32
+      },
+      {
+        "name": "Snoozy Tomato",
+        "amount": 29
+      }
+    ],
+    "totalIngredients": 103,
+    "energy": 24354
+  }
+]
