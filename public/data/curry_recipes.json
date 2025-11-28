@@ -1,10 +1,10 @@
 [
   {
     "id": "fancy_apple_curry",
-    "name": "Fancy Apple Curry",
+    "name": "특선사과 카레",
     "ingredients": [
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 7
       }
     ],
@@ -13,10 +13,10 @@
   },
   {
     "id": "simple_chowder",
-    "name": "Simple Chowder",
+    "name": "단순 화이트 스튜",
     "ingredients": [
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 7
       }
     ],
@@ -25,10 +25,10 @@
   },
   {
     "id": "mild_honey_curry",
-    "name": "Mild Honey Curry",
+    "name": "베이비 허니 카레",
     "ingredients": [
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 7
       }
     ],
@@ -37,10 +37,10 @@
   },
   {
     "id": "beanburger_curry",
-    "name": "Beanburger Curry",
+    "name": "콩 햄버그 카레",
     "ingredients": [
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 7
       }
     ],
@@ -49,14 +49,14 @@
   },
   {
     "id": "hearty_cheeseburger_curry",
-    "name": "Hearty Cheeseburger Curry",
+    "name": "만복 치즈 햄버그 카레",
     "ingredients": [
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 8
       },
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 8
       }
     ],
@@ -65,14 +65,14 @@
   },
   {
     "id": "drought_katsu_curry",
-    "name": "“Drought” Katsu Curry",
+    "name": "가뭄 커틀릿 카레",
     "ingredients": [
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 10
       },
       {
-        "name": "Pure Oil",
+        "name": "퓨어오일",
         "amount": 5
       }
     ],
@@ -81,14 +81,14 @@
   },
   {
     "id": "solar_power_tomato_curry",
-    "name": "“Solar Power” Tomato Curry",
+    "name": "선파워 토마토 카레",
     "ingredients": [
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 10
       },
       {
-        "name": "Fiery Herb",
+        "name": "불맛허브",
         "amount": 5
       }
     ],
@@ -97,14 +97,14 @@
   },
   {
     "id": "melty_omelette_curry",
-    "name": "Melty Omelette Curry",
+    "name": "살살녹는 오므라이스 카레",
     "ingredients": [
       {
-        "name": "Fancy Egg",
+        "name": "특선에그",
         "amount": 10
       },
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 6
       }
     ],
@@ -113,18 +113,18 @@
   },
   {
     "id": "soft_potato_chowder",
-    "name": "Soft Potato Chowder",
+    "name": "따끈한 화이트 스튜",
     "ingredients": [
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 10
       },
       {
-        "name": "Soft Potato",
+        "name": "따끈따끈감자",
         "amount": 8
       },
       {
-        "name": "Tasty Mushroom",
+        "name": "풍미버섯",
         "amount": 4
       }
     ],
@@ -133,22 +133,22 @@
   },
   {
     "id": "bulk_up_bean_curry",
-    "name": "“Bulk Up” Bean Curry",
+    "name": "벌크업 콩 카레",
     "ingredients": [
       {
-        "name": "Greengrass Soybeans",
+        "name": "연둣빛대두",
         "amount": 12
       },
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 6
       },
       {
-        "name": "Fiery Herb",
+        "name": "불맛허브",
         "amount": 4
       },
       {
-        "name": "Fancy Egg",
+        "name": "특선에그",
         "amount": 4
       }
     ],
@@ -157,14 +157,14 @@
   },
   {
     "id": "spore_mushroom_curry",
-    "name": "“Spore” Mushroom Curry",
+    "name": "버섯포자 카레",
     "ingredients": [
       {
-        "name": "Soft Potato",
+        "name": "따끈따끈감자",
         "amount": 9
       },
       {
-        "name": "Tasty Mushroom",
+        "name": "풍미버섯",
         "amount": 14
       }
     ],
@@ -173,22 +173,22 @@
   },
   {
     "id": "egg_bomb_curry",
-    "name": "“Egg Bomb” Curry",
+    "name": "부자유친 카레",
     "ingredients": [
       {
-        "name": "Soft Potato",
+        "name": "따끈따끈감자",
         "amount": 4
       },
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 11
       },
       {
-        "name": "Fancy Egg",
+        "name": "특선에그",
         "amount": 8
       },
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 12
       }
     ],
@@ -197,18 +197,18 @@
   },
   {
     "id": "limber_corn_stew",
-    "name": "“Limber” Corn Stew",
+    "name": "유연 콘 스튜",
     "ingredients": [
       {
-        "name": "Greengrass Corn",
+        "name": "연둣빛옥수수",
         "amount": 14
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 8
       },
       {
-        "name": "Soft Potato",
+        "name": "따끈따끈감자",
         "amount": 8
       }
     ],
@@ -217,18 +217,18 @@
   },
   {
     "id": "dizzy_punch_spicy_curry",
-    "name": "“Dizzy Punch” Spicy Curry",
+    "name": "잼잼펀치 매운맛 카레",
     "ingredients": [
       {
-        "name": "Rousing Coffee",
+        "name": "각성원두",
         "amount": 11
       },
       {
-        "name": "Fiery Herb",
+        "name": "불맛허브",
         "amount": 11
       },
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 11
       }
     ],
@@ -237,18 +237,18 @@
   },
   {
     "id": "spicy_leek_curry",
-    "name": "Spicy Leek Curry",
+    "name": "매운맛 파 듬뿍 카레",
     "ingredients": [
       {
-        "name": "Large Leek",
+        "name": "굵은대파",
         "amount": 14
       },
       {
-        "name": "Fiery Herb",
+        "name": "불맛허브",
         "amount": 8
       },
       {
-        "name": "Warming Ginger",
+        "name": "따뜻한생강",
         "amount": 10
       }
     ],
@@ -257,14 +257,14 @@
   },
   {
     "id": "grilled_tail_curry",
-    "name": "Grilled Tail Curry",
+    "name": "훈제 꼬리 카레",
     "ingredients": [
       {
-        "name": "Fiery Herb",
+        "name": "불맛허브",
         "amount": 25
       },
       {
-        "name": "Slowpoke Tail",
+        "name": "맛있는꼬리",
         "amount": 8
       }
     ],
@@ -273,22 +273,22 @@
   },
   {
     "id": "dream_eater_butter_curry",
-    "name": "“Dream Eater” Butter Curry",
+    "name": "절대안깸 버터 카레",
     "ingredients": [
       {
-        "name": "Soothing Cacao",
+        "name": "릴랙스카카오",
         "amount": 12
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 10
       },
       {
-        "name": "Soft Potato",
+        "name": "따끈따끈감자",
         "amount": 18
       },
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 15
       }
     ],
@@ -297,22 +297,22 @@
   },
   {
     "id": "ninja_curry",
-    "name": "Ninja Curry",
+    "name": "닌자 카레",
     "ingredients": [
       {
-        "name": "Greengrass Soybeans",
+        "name": "연둣빛대두",
         "amount": 24
       },
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 9
       },
       {
-        "name": "Large Leek",
+        "name": "굵은대파",
         "amount": 12
       },
       {
-        "name": "Tasty Mushroom",
+        "name": "풍미버섯",
         "amount": 5
       }
     ],
@@ -321,22 +321,22 @@
   },
   {
     "id": "inferno_corn_keema_curry",
-    "name": "“Inferno” Corn Keema Curry",
+    "name": "연옥 콘 키마 카레",
     "ingredients": [
       {
-        "name": "Fiery Herb",
+        "name": "불맛허브",
         "amount": 27
       },
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 24
       },
       {
-        "name": "Greengrass Corn",
+        "name": "연둣빛옥수수",
         "amount": 14
       },
       {
-        "name": "Warming Ginger",
+        "name": "따뜻한생강",
         "amount": 12
       }
     ],
@@ -345,22 +345,22 @@
   },
   {
     "id": "role_play_pumpkaboo_stew",
-    "name": "“Role Play” Pumpkaboo Stew",
+    "name": "역할놀이 호바귀 스튜",
     "ingredients": [
       {
-        "name": "Plump Pumpkin",
+        "name": "통통호박",
         "amount": 10
       },
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 16
       },
       {
-        "name": "Soft Potato",
+        "name": "따끈따끈감자",
         "amount": 18
       },
       {
-        "name": "Tasty Mushroom",
+        "name": "풍미버섯",
         "amount": 25
       }
     ],
@@ -369,22 +369,22 @@
   },
   {
     "id": "hidden_power_perkup_stew",
-    "name": "“Hidden Power” Perk-Up Stew",
+    "name": "잠재파워 스튜",
     "ingredients": [
       {
-        "name": "Greengrass Soybeans",
+        "name": "연둣빛대두",
         "amount": 28
       },
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 25
       },
       {
-        "name": "Tasty Mushroom",
+        "name": "풍미버섯",
         "amount": 23
       },
       {
-        "name": "Rousing Coffee",
+        "name": "각성원두",
         "amount": 16
       }
     ],
@@ -393,22 +393,22 @@
   },
   {
     "id": "cut_sukiyaki_curry",
-    "name": "“Cut” Sukiyaki Curry",
+    "name": "풀베기 스키야키 카레",
     "ingredients": [
       {
-        "name": "Large Leek",
+        "name": "굵은대파",
         "amount": 27
       },
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 26
       },
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 26
       },
       {
-        "name": "Fancy Egg",
+        "name": "특선에그",
         "amount": 22
       }
     ],
@@ -417,22 +417,22 @@
   },
   {
     "id": "overgrow_avocado_gratin",
-    "name": "“Overgrow” Avocado Gratin",
+    "name": "심록 아보카도 그라탕",
     "ingredients": [
       {
-        "name": "Glossy Avocado",
+        "name": "윤기아보카도",
         "amount": 22
       },
       {
-        "name": "Soft Potato",
+        "name": "따끈따끈감자",
         "amount": 20
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 41
       },
       {
-        "name": "Pure Oil",
+        "name": "퓨어오일",
         "amount": 32
       }
     ],

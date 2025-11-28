@@ -1,6 +1,6 @@
 import { Pokemon, Ingredient } from '../types/pokemon';
 import { Recipe, RecipeIngredient } from '../types/recipe';
-import { parseCsvFile, csvToObjects } from './csvParser';
+
 
 // 캐시된 데이터를 저장할 변수들
 let cachedPokemons: Pokemon[] | null = null;
@@ -10,44 +10,46 @@ const cachedRecipes: Record<string, Recipe[]> = {};
 export const getPokemons = async (): Promise<Pokemon[]> => {
   if (cachedPokemons) return cachedPokemons;
 
-  // 먼저 모든 재료를 로드
-  const ingredients = await getIngredients();
-  
-  // 포켓몬 데이터를 처리
-  const csvData = await parseCsvFile('/data/pokemon_ingredients.csv');
-  const pokemons = csvData.map(row => {
-      const [name, ingredientsStr] = row;
-      const ingredientNames = ingredientsStr.split('/');
-      
-      // 해당 포켓몬의 재료들을 찾음
-      const pokemonIngredients = ingredients
-        .filter(ing => ingredientNames.includes(ing.name))
-        .map(ing => ({
-          ...ing,
-          pokemonId: name // 포켓몬 이름을 ID로 사용
-        }));
+  const [ingredients, pokemonData, pokemonIngredientsData] = await Promise.all([
+    getIngredients(),
+    fetch('/data/pokemons.json').then(res => res.json()) as Promise<{ id: number; name: string }[]>,
+    fetch('/data/pokemon_ingredients.json').then(res => res.json()) as Promise<{ pokemon: string; ingredients: string[] }[]>
+  ]);
 
-      return {
-        id: name,
-        name: name,
-        ingredients: pokemonIngredients
-      };
-    });
+  cachedPokemons = pokemonData.map(p => {
+    // Find ingredients for this pokemon
+    // The pokemon_ingredients.json uses Pokemon Name to link
+    const pIngredients = pokemonIngredientsData.find(pi => pi.pokemon === p.name);
 
-  cachedPokemons = pokemons;
+    const myIngredients: Ingredient[] = [];
+    if (pIngredients) {
+      for (const ingName of pIngredients.ingredients) {
+        const found = ingredients.find(i => i.name === ingName);
+        if (found) {
+          myIngredients.push({ ...found, pokemonId: p.name });
+        }
+      }
+    }
+
+    return {
+      id: p.id.toString(),
+      name: p.name,
+      ingredients: myIngredients
+    };
+  });
+
   return cachedPokemons;
 };
 
 export const getIngredients = async (): Promise<Ingredient[]> => {
   if (cachedIngredients) return cachedIngredients;
 
-  const csvData = await parseCsvFile('/data/ingredients.csv');
-  const headers = ['id', 'name', 'description'];
-  
-  cachedIngredients = csvToObjects<Ingredient>(csvData, headers, (row) => ({
-    id: row.id,
+  const ingredientData = await fetch('/data/ingredients.json').then(res => res.json()) as { id: number; name: string }[];
+
+  cachedIngredients = ingredientData.map(row => ({
+    id: row.id.toString(),
     name: row.name,
-    description: row.description
+    description: ''
   }));
 
   return cachedIngredients;
@@ -57,10 +59,8 @@ interface RecipeData {
   id: string;
   name: string;
   ingredients: Array<{
-    ingredient: {
-      name: string;
-    };
-    quantity: number;
+    name: string;
+    amount: number;
   }>;
 }
 
@@ -74,14 +74,14 @@ export const getRecipes = async (recipeType: string): Promise<Recipe[]> => {
 
   cachedRecipes[recipeType] = recipeJson.map(recipe => {
     const ingredients: RecipeIngredient[] = recipe.ingredients.map(item => {
-      const matchedIngredient = ingredientData.find(ing => ing.name === item.ingredient.name);
+      const matchedIngredient = ingredientData.find(ing => ing.name === item.name);
       return {
         ingredient: matchedIngredient || {
           id: 'unknown',
-          name: '알 수 없는 재료',
+          name: item.name, // 매칭되지 않으면 JSON의 이름을 그대로 사용
           description: ''
         },
-        quantity: item.quantity
+        quantity: item.amount
       };
     });
 

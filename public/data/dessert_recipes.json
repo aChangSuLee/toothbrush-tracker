@@ -1,10 +1,10 @@
 [
   {
     "id": "warm_moomoo_milk",
-    "name": "Warm Moomoo Milk",
+    "name": "튼튼 핫밀크",
     "ingredients": [
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 7
       }
     ],
@@ -13,10 +13,10 @@
   },
   {
     "id": "fancy_apple_juice",
-    "name": "Fancy Apple Juice",
+    "name": "특선사과 주스",
     "ingredients": [
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 8
       }
     ],
@@ -25,10 +25,10 @@
   },
   {
     "id": "craft_soda_pop",
-    "name": "Craft Soda Pop",
+    "name": "수제 미네랄사이다",
     "ingredients": [
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 9
       }
     ],
@@ -37,14 +37,14 @@
   },
   {
     "id": "lucky_chant_apple_pie",
-    "name": "“Lucky Chant” Apple Pie",
+    "name": "희망사항 애플파이",
     "ingredients": [
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 12
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 4
       }
     ],
@@ -53,14 +53,14 @@
   },
   {
     "id": "fluffy_sweet_potatoes",
-    "name": "“Fluffy” Sweet Potatoes",
+    "name": "숙성 달콤 감자",
     "ingredients": [
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 5
       },
       {
-        "name": "Soft Potato",
+        "name": "따끈따끈감자",
         "amount": 9
       }
     ],
@@ -69,14 +69,14 @@
   },
   {
     "id": "ember_ginger_tea",
-    "name": "“Ember” Ginger Tea",
+    "name": "불꽃 생강차",
     "ingredients": [
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 7
       },
       {
-        "name": "Warming Ginger",
+        "name": "따뜻한생강",
         "amount": 9
       }
     ],
@@ -85,14 +85,14 @@
   },
   {
     "id": "cloud_nine_soy_cake",
-    "name": "“Cloud Nine” Soy Cake",
+    "name": "곡예 소이 케이크",
     "ingredients": [
       {
-        "name": "Fancy Egg",
+        "name": "특선에그",
         "amount": 8
       },
       {
-        "name": "Greengrass Soybeans",
+        "name": "연둣빛대두",
         "amount": 7
       }
     ],
@@ -101,14 +101,14 @@
   },
   {
     "id": "stalwart_vegetable_juice",
-    "name": "“Stalwart” Vegetable Juice",
+    "name": "마이페이스 야채 주스",
     "ingredients": [
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 9
       },
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 7
       }
     ],
@@ -117,18 +117,18 @@
   },
   {
     "id": "big_malasada",
-    "name": "Big Malasada",
+    "name": "큰 말라사다",
     "ingredients": [
       {
-        "name": "Pure Oil",
+        "name": "퓨어오일",
         "amount": 10
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 7
       },
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 6
       }
     ],
@@ -137,14 +137,14 @@
   },
   {
     "id": "hustle_protein_smoothie",
-    "name": "“Hustle” Protein Smoothie",
+    "name": "의욕 프로틴 스무디",
     "ingredients": [
       {
-        "name": "Greengrass Soybeans",
+        "name": "연둣빛대두",
         "amount": 15
       },
       {
-        "name": "Soothing Cacao",
+        "name": "릴랙스카카오",
         "amount": 8
       }
     ],
@@ -153,18 +153,18 @@
   },
   {
     "id": "sweet_scent_chocolate_cake",
-    "name": "“Sweet Scent” Chocolate Cake",
+    "name": "달콤한향기 초코케이크",
     "ingredients": [
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 7
       },
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 9
       },
       {
-        "name": "Soothing Cacao",
+        "name": "릴랙스카카오",
         "amount": 8
       }
     ],
@@ -173,14 +173,14 @@
   },
   {
     "id": "petal_dance_chocolate_tart",
-    "name": "“Petal Dance” Chocolate Tart",
+    "name": "꽃잎댄스 초코 타르트",
     "ingredients": [
       {
-        "name": "Soothing Cacao",
+        "name": "릴랙스카카오",
         "amount": 11
       },
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 11
       }
     ],
@@ -189,22 +189,22 @@
   },
   {
     "id": "lovely_kiss_smoothie",
-    "name": "“Lovely Kiss” Smoothie",
+    "name": "악마의키스 후르츠오레",
     "ingredients": [
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 11
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 9
       },
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 7
       },
       {
-        "name": "Soothing Cacao",
+        "name": "릴랙스카카오",
         "amount": 8
       }
     ],
@@ -213,22 +213,22 @@
   },
   {
     "id": "steadfast_ginger_cookies",
-    "name": "“Steadfast” Ginger Cookies",
+    "name": "불굴의 진저 쿠키",
     "ingredients": [
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 14
       },
       {
-        "name": "Warming Ginger",
+        "name": "따뜻한생강",
         "amount": 12
       },
       {
-        "name": "Soothing Cacao",
+        "name": "릴랙스카카오",
         "amount": 5
       },
       {
-        "name": "Fancy Egg",
+        "name": "특선에그",
         "amount": 4
       }
     ],
@@ -237,18 +237,18 @@
   },
   {
     "id": "neroli_restorative_tea",
-    "name": "Neroli's Restorative Tea",
+    "name": "네롤리 디톡스 티",
     "ingredients": [
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 15
       },
       {
-        "name": "Warming Ginger",
+        "name": "따뜻한생강",
         "amount": 11
       },
       {
-        "name": "Tasty Mushroom",
+        "name": "풍미버섯",
         "amount": 9
       }
     ],
@@ -257,18 +257,18 @@
   },
   {
     "id": "huge_power_soy_donuts",
-    "name": "“Huge Power” Soy Donuts",
+    "name": "천하장사 소이 도넛",
     "ingredients": [
       {
-        "name": "Pure Oil",
+        "name": "퓨어오일",
         "amount": 12
       },
       {
-        "name": "Greengrass Soybeans",
+        "name": "연둣빛대두",
         "amount": 16
       },
       {
-        "name": "Soothing Cacao",
+        "name": "릴랙스카카오",
         "amount": 7
       }
     ],
@@ -277,18 +277,18 @@
   },
   {
     "id": "explosion_popcorn",
-    "name": "“Explosion” Popcorn",
+    "name": "대폭발 팝콘",
     "ingredients": [
       {
-        "name": "Greengrass Corn",
+        "name": "연둣빛옥수수",
         "amount": 15
       },
       {
-        "name": "Pure Oil",
+        "name": "퓨어오일",
         "amount": 14
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 7
       }
     ],
@@ -297,18 +297,18 @@
   },
   {
     "id": "early_bird_coffee_jelly",
-    "name": "“Early Bird” Coffee Jelly",
+    "name": "일찍기상 커피 젤리",
     "ingredients": [
       {
-        "name": "Rousing Coffee",
+        "name": "각성원두",
         "amount": 16
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 14
       },
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 12
       }
     ],
@@ -317,18 +317,18 @@
   },
   {
     "id": "mold_breaker_corn_tiramisu",
-    "name": "“Mold Breaker” Corn Tiramisu",
+    "name": "틀깨기 콘 티라미수",
     "ingredients": [
       {
-        "name": "Rousing Coffee",
+        "name": "각성원두",
         "amount": 14
       },
       {
-        "name": "Greengrass Corn",
+        "name": "연둣빛옥수수",
         "amount": 14
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 12
       }
     ],
@@ -337,22 +337,22 @@
   },
   {
     "id": "jigglypuff_fruity_flan",
-    "name": "Jigglypuff's Fruity Flan",
+    "name": "푸린의 푸딩 아라모드",
     "ingredients": [
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 20
       },
       {
-        "name": "Fancy Egg",
+        "name": "특선에그",
         "amount": 15
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 10
       },
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 10
       }
     ],
@@ -361,18 +361,18 @@
   },
   {
     "id": "leaf_tornado_smoothie",
-    "name": "“Leaf Tornado” Smoothie",
+    "name": "리프 토네이도 스무디",
     "ingredients": [
       {
-        "name": "Glossy Avocado",
+        "name": "윤기아보카도",
         "amount": 18
       },
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 16
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 14
       }
     ],
@@ -381,22 +381,22 @@
   },
   {
     "id": "teatime_corn_scones",
-    "name": "“Teatime” Corn Scones",
+    "name": "다과회 옥수수 스콘",
     "ingredients": [
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 20
       },
       {
-        "name": "Warming Ginger",
+        "name": "따뜻한생강",
         "amount": 20
       },
       {
-        "name": "Greengrass Corn",
+        "name": "연둣빛옥수수",
         "amount": 18
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 9
       }
     ],
@@ -405,22 +405,22 @@
   },
   {
     "id": "flower_gift_macarons",
-    "name": "“Flower Gift” Macarons",
+    "name": "플라워기프트 마카롱",
     "ingredients": [
       {
-        "name": "Soothing Cacao",
+        "name": "릴랙스카카오",
         "amount": 25
       },
       {
-        "name": "Fancy Egg",
+        "name": "특선에그",
         "amount": 25
       },
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 17
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 10
       }
     ],
@@ -429,22 +429,22 @@
   },
   {
     "id": "zing_zap_spiced_cola",
-    "name": "“Zing Zap” Spiced Cola",
+    "name": "스파크 스파이스 콜라",
     "ingredients": [
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 35
       },
       {
-        "name": "Warming Ginger",
+        "name": "따뜻한생강",
         "amount": 20
       },
       {
-        "name": "Large Leek",
+        "name": "굵은대파",
         "amount": 20
       },
       {
-        "name": "Rousing Coffee",
+        "name": "각성원두",
         "amount": 12
       }
     ],
@@ -453,22 +453,22 @@
   },
   {
     "id": "clodsire_eclair",
-    "name": "Clodsire Eclair",
+    "name": "토오 에클레어",
     "ingredients": [
       {
-        "name": "Soothing Cacao",
+        "name": "릴랙스카카오",
         "amount": 30
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 26
       },
       {
-        "name": "Rousing Coffee",
+        "name": "각성원두",
         "amount": 24
       },
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 22
       }
     ],
@@ -477,22 +477,22 @@
   },
   {
     "id": "scary_face_pancakes",
-    "name": "“Scary Face” Pancakes",
+    "name": "무서운얼굴 팬케이크",
     "ingredients": [
       {
-        "name": "Plump Pumpkin",
+        "name": "통통호박",
         "amount": 18
       },
       {
-        "name": "Fancy Egg",
+        "name": "특선에그",
         "amount": 24
       },
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 32
       },
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 29
       }
     ],

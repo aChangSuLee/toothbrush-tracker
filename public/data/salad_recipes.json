@@ -1,10 +1,10 @@
 [
   {
     "id": "fancy_apple_salad",
-    "name": "Fancy Apple Salad",
+    "name": "특선사과 샐러드",
     "ingredients": [
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 8
       }
     ],
@@ -13,10 +13,10 @@
   },
   {
     "id": "bean_ham_salad",
-    "name": "Bean Ham Salad",
+    "name": "콩햄 샐러드",
     "ingredients": [
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 8
       }
     ],
@@ -25,10 +25,10 @@
   },
   {
     "id": "snoozy_tomato_salad",
-    "name": "Snoozy Tomato Salad",
+    "name": "숙면토마토 샐러드",
     "ingredients": [
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 8
       }
     ],
@@ -37,14 +37,14 @@
   },
   {
     "id": "snow_cloak_caesar_salad",
-    "name": "“Snow Cloak” Caesar Salad",
+    "name": "눈치우기 샐러드",
     "ingredients": [
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 10
       },
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 6
       }
     ],
@@ -53,14 +53,14 @@
   },
   {
     "id": "heat_wave_tofu_salad",
-    "name": "“Heat Wave” Tofu Salad",
+    "name": "열풍 두부 샐러드",
     "ingredients": [
       {
-        "name": "Greengrass Soybeans",
+        "name": "연둣빛대두",
         "amount": 10
       },
       {
-        "name": "Fiery Herb",
+        "name": "불맛허브",
         "amount": 6
       }
     ],
@@ -69,18 +69,18 @@
   },
   {
     "id": "dazzling_apple_cheese_salad",
-    "name": "“Dazzling” Apple Cheese Salad",
+    "name": "헤롱헤롱사과 치즈 샐러드",
     "ingredients": [
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 15
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 5
       },
       {
-        "name": "Pure Oil",
+        "name": "퓨어오일",
         "amount": 3
       }
     ],
@@ -89,14 +89,14 @@
   },
   {
     "id": "immunity_leek_salad",
-    "name": "“Immunity” Leek Salad",
+    "name": "면역 파 샐러드",
     "ingredients": [
       {
-        "name": "Large Leek",
+        "name": "굵은대파",
         "amount": 10
       },
       {
-        "name": "Warming Ginger",
+        "name": "따뜻한생강",
         "amount": 5
       }
     ],
@@ -105,14 +105,14 @@
   },
   {
     "id": "fury_attack_corn_salad",
-    "name": "“Fury Attack” Corn Salad",
+    "name": "마구찌르기 옥수수 샐러드",
     "ingredients": [
       {
-        "name": "Greengrass Corn",
+        "name": "연둣빛옥수수",
         "amount": 9
       },
       {
-        "name": "Pure Oil",
+        "name": "퓨어오일",
         "amount": 8
       }
     ],
@@ -121,18 +121,18 @@
   },
   {
     "id": "moomoo_caprese_salad",
-    "name": "Moomoo Caprese Salad",
+    "name": "튼튼 카프레제 샐러드",
     "ingredients": [
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 12
       },
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 6
       },
       {
-        "name": "Pure Oil",
+        "name": "퓨어오일",
         "amount": 5
       }
     ],
@@ -141,22 +141,22 @@
   },
   {
     "id": "superpower_extreme_salad",
-    "name": "“Superpower” Extreme Salad",
+    "name": "엄청난힘 와일드 샐러드",
     "ingredients": [
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 9
       },
       {
-        "name": "Soft Potato",
+        "name": "따끈따끈감자",
         "amount": 3
       },
       {
-        "name": "Fancy Egg",
+        "name": "특선에그",
         "amount": 5
       },
       {
-        "name": "Warming Ginger",
+        "name": "따뜻한생강",
         "amount": 6
       }
     ],
@@ -165,14 +165,14 @@
   },
   {
     "id": "water_veil_tofu_salad",
-    "name": "“Water Veil” Tofu Salad",
+    "name": "촉촉한 두부 샐러드",
     "ingredients": [
       {
-        "name": "Greengrass Soybeans",
+        "name": "연둣빛대두",
         "amount": 15
       },
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 9
       }
     ],
@@ -181,14 +181,14 @@
   },
   {
     "id": "contrary_chocolate_meat_salad",
-    "name": "“Contrary” Chocolate Meat Salad",
+    "name": "변덕쟁이 초코 미트 샐러드",
     "ingredients": [
       {
-        "name": "Soothing Cacao",
+        "name": "릴랙스카카오",
         "amount": 14
       },
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 9
       }
     ],
@@ -197,22 +197,22 @@
   },
   {
     "id": "gluttony_potato_salad",
-    "name": "“Gluttony” Potato Salad",
+    "name": "먹보 감자 샐러드",
     "ingredients": [
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 7
       },
       {
-        "name": "Soft Potato",
+        "name": "따끈따끈감자",
         "amount": 14
       },
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 6
       },
       {
-        "name": "Fancy Egg",
+        "name": "특선에그",
         "amount": 9
       }
     ],
@@ -221,18 +221,18 @@
   },
   {
     "id": "overheat_ginger_salad",
-    "name": "“Overheat” Ginger Salad",
+    "name": "오버히트 샐러드",
     "ingredients": [
       {
-        "name": "Fiery Herb",
+        "name": "불맛허브",
         "amount": 17
       },
       {
-        "name": "Warming Ginger",
+        "name": "따뜻한생강",
         "amount": 10
       },
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 8
       }
     ],
@@ -241,18 +241,18 @@
   },
   {
     "id": "spore_mushroom_salad",
-    "name": "“Spore” Mushroom Salad",
+    "name": "버섯포자 샐러드",
     "ingredients": [
       {
-        "name": "Pure Oil",
+        "name": "퓨어오일",
         "amount": 8
       },
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 8
       },
       {
-        "name": "Tasty Mushroom",
+        "name": "풍미버섯",
         "amount": 17
       }
     ],
@@ -261,18 +261,18 @@
   },
   {
     "id": "luscious_avocado_salad",
-    "name": "Luscious Avocado Salad",
+    "name": "윤기 아보카도 샐러드",
     "ingredients": [
       {
-        "name": "Glossy Avocado",
+        "name": "윤기아보카도",
         "amount": 14
       },
       {
-        "name": "Greengrass Soybeans",
+        "name": "연둣빛대두",
         "amount": 18
       },
       {
-        "name": "Pure Oil",
+        "name": "퓨어오일",
         "amount": 10
       }
     ],
@@ -281,18 +281,18 @@
   },
   {
     "id": "calm_mind_fruit_salad",
-    "name": "“Calm Mind” Fruit Salad",
+    "name": "명상 스위트 샐러드",
     "ingredients": [
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 21
       },
       {
-        "name": "Honey",
+        "name": "달콤한꿀",
         "amount": 16
       },
       {
-        "name": "Greengrass Corn",
+        "name": "연둣빛옥수수",
         "amount": 12
       }
     ],
@@ -301,18 +301,18 @@
   },
   {
     "id": "slowpoke_tail_pepper_salad",
-    "name": "Slowpoke Tail Pepper Salad",
+    "name": "야돈 꼬리 페퍼 샐러드",
     "ingredients": [
       {
-        "name": "Pure Oil",
+        "name": "퓨어오일",
         "amount": 15
       },
       {
-        "name": "Fiery Herb",
+        "name": "불맛허브",
         "amount": 10
       },
       {
-        "name": "Slowpoke Tail",
+        "name": "맛있는꼬리",
         "amount": 10
       }
     ],
@@ -321,22 +321,22 @@
   },
   {
     "id": "cross_chop_salad",
-    "name": "“Cross Chop” Salad",
+    "name": "크로스촙 샐러드",
     "ingredients": [
       {
-        "name": "Fancy Egg",
+        "name": "특선에그",
         "amount": 20
       },
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 15
       },
       {
-        "name": "Greengrass Corn",
+        "name": "연둣빛옥수수",
         "amount": 11
       },
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 10
       }
     ],
@@ -345,22 +345,22 @@
   },
   {
     "id": "greengrass_salad",
-    "name": "Greengrass Salad",
+    "name": "연둣빛 샐러드",
     "ingredients": [
       {
-        "name": "Pure Oil",
+        "name": "퓨어오일",
         "amount": 22
       },
       {
-        "name": "Greengrass Corn",
+        "name": "연둣빛옥수수",
         "amount": 17
       },
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 14
       },
       {
-        "name": "Soft Potato",
+        "name": "따끈따끈감자",
         "amount": 9
       }
     ],
@@ -369,22 +369,22 @@
   },
   {
     "id": "ninja_salad",
-    "name": "Ninja Salad",
+    "name": "닌자 샐러드",
     "ingredients": [
       {
-        "name": "Greengrass Soybeans",
+        "name": "연둣빛대두",
         "amount": 19
       },
       {
-        "name": "Large Leek",
+        "name": "굵은대파",
         "amount": 15
       },
       {
-        "name": "Warming Ginger",
+        "name": "따뜻한생강",
         "amount": 11
       },
       {
-        "name": "Tasty Mushroom",
+        "name": "풍미버섯",
         "amount": 12
       }
     ],
@@ -393,22 +393,22 @@
   },
   {
     "id": "petal_blizzard_layered_salad",
-    "name": "“Petal Blizzard” Layered Salad",
+    "name": "꽃보라 샐러드",
     "ingredients": [
       {
-        "name": "Fancy Egg",
+        "name": "특선에그",
         "amount": 25
       },
       {
-        "name": "Pure Oil",
+        "name": "퓨어오일",
         "amount": 17
       },
       {
-        "name": "Soft Potato",
+        "name": "따끈따끈감자",
         "amount": 15
       },
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 12
       }
     ],
@@ -417,22 +417,22 @@
   },
   {
     "id": "apple_acid_yogurt_salad",
-    "name": "“Apple Acid” Yogurt-Dressed Salad",
+    "name": "사과산 요구르트 샐러드",
     "ingredients": [
       {
-        "name": "Fancy Egg",
+        "name": "특선에그",
         "amount": 35
       },
       {
-        "name": "Fancy Apple",
+        "name": "특선사과",
         "amount": 28
       },
       {
-        "name": "Snoozy Tomato",
+        "name": "숙면토마토",
         "amount": 23
       },
       {
-        "name": "Moomoo Milk",
+        "name": "튼튼밀크",
         "amount": 18
       }
     ],
@@ -441,22 +441,22 @@
   },
   {
     "id": "defiant_coffee_salad",
-    "name": "“Defiant” Coffee-Dressed Salad",
+    "name": "오기 커피 샐러드",
     "ingredients": [
       {
-        "name": "Rousing Coffee",
+        "name": "각성원두",
         "amount": 28
       },
       {
-        "name": "Bean Sausage",
+        "name": "콩고기",
         "amount": 28
       },
       {
-        "name": "Pure Oil",
+        "name": "퓨어오일",
         "amount": 22
       },
       {
-        "name": "Soft Potato",
+        "name": "따끈따끈감자",
         "amount": 22
       }
     ],
@@ -465,22 +465,22 @@
   },
   {
     "id": "bulldoze_guacamole_salad",
-    "name": "“Bulldoze” Guacamole and Chips",
+    "name": "땅고르기 과카몰리 샐러드",
     "ingredients": [
       {
-        "name": "Glossy Avocado",
+        "name": "윤기아보카도",
         "amount": 28
       },
       {
-        "name": "Greengrass Corn",
+        "name": "연둣빛옥수수",
         "amount": 25
       },
       {
-        "name": "Fiery Herb",
+        "name": "불맛허브",
         "amount": 30
       },
       {
-        "name": "Greengrass Soybeans",
+        "name": "연둣빛대두",
         "amount": 22
       }
     ],

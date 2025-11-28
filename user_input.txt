@@ -1,0 +1,856 @@
+1	Pokemon Sleep - BulbasaurBulbasaur
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Ingredients
+Durin Berry x1 | HoneySnoozy TomatoSoft Potato
+2	Pokemon Sleep - IvysaurIvysaur
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Ingredients
+Durin Berry x1 | HoneySnoozy TomatoSoft Potato
+3	Pokemon Sleep - VenusaurVenusaur
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Ingredients
+Durin Berry x1 | HoneySnoozy TomatoSoft Potato
+4	Pokemon Sleep - CharmanderCharmander
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Ingredients
+Leppa Berry x1 | Bean SausageWarming GingerFiery Herb
+5	Pokemon Sleep - CharmeleonCharmeleon
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Ingredients
+Leppa Berry x1 | Bean SausageWarming GingerFiery Herb
+6	Pokemon Sleep - CharizardCharizard
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Ingredients
+Leppa Berry x1 | Bean SausageWarming GingerFiery Herb
+7	Pokemon Sleep - SquirtleSquirtle
+Pokemon Sleep - Water Pokemon Sleep - Slumbering
+Ingredients
+Oran Berry x1 | Moomoo MilkSoothing CacaoBean Sausage
+8	Pokemon Sleep - WartortleWartortle
+Pokemon Sleep - Water Pokemon Sleep - Slumbering
+Ingredients
+Oran Berry x1 | Moomoo MilkSoothing CacaoBean Sausage
+9	Pokemon Sleep - BlastoiseBlastoise
+Pokemon Sleep - Water Pokemon Sleep - Slumbering
+Ingredients
+Oran Berry x1 | Moomoo MilkSoothing CacaoBean Sausage
+10	Pokemon Sleep - CaterpieCaterpie
+Pokemon Sleep - Bug Pokemon Sleep - Dozing
+Berries
+Lum Berry x2 | HoneySnoozy TomatoGreengrass Soybeans
+11	Pokemon Sleep - MetapodMetapod
+Pokemon Sleep - Bug Pokemon Sleep - Dozing
+Berries
+Lum Berry x2 | HoneySnoozy TomatoGreengrass Soybeans
+12	Pokemon Sleep - ButterfreeButterfree
+Pokemon Sleep - Bug Pokemon Sleep - Dozing
+Berries
+Lum Berry x2 | HoneySnoozy TomatoGreengrass Soybeans
+19	Pokemon Sleep - RattataRattata
+Pokemon Sleep - Normal Pokemon Sleep - Snoozing
+Berries
+Persim Berry x2 | Fancy AppleGreengrass SoybeansBean Sausage
+20	Pokemon Sleep - RaticateRaticate
+Pokemon Sleep - Normal Pokemon Sleep - Snoozing
+Berries
+Persim Berry x2 | Fancy AppleGreengrass SoybeansBean Sausage
+23	Pokemon Sleep - EkansEkans
+Pokemon Sleep - Poison Pokemon Sleep - Dozing
+Berries
+Chesto Berry x2 | Bean SausageFancy EggFiery Herb
+24	Pokemon Sleep - ArbokArbok
+Pokemon Sleep - Poison Pokemon Sleep - Dozing
+Berries
+Chesto Berry x2 | Bean SausageFancy EggFiery Herb
+25	Pokemon Sleep - PikachuPikachu
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Berries
+Grepa Berry x2 | Fancy AppleWarming GingerFancy Egg
+25.1	Pokemon Sleep - Pikachu (Halloween)Pikachu (Halloween)
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Berries
+Grepa Berry x2 | Fancy AppleWarming GingerFancy Egg
+25.2	Pokemon Sleep - Pikachu (Holiday)Pikachu (Holiday)
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Skills
+Grepa Berry x1 | Fancy AppleWarming GingerFancy Egg
+26	Pokemon Sleep - RaichuRaichu
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Berries
+Grepa Berry x2 | Fancy AppleWarming GingerFancy Egg
+35	Pokemon Sleep - ClefairyClefairy
+Pokemon Sleep - Fairy Pokemon Sleep - Snoozing
+Berries
+Pecha Berry x2 | Fancy AppleHoneyGreengrass Soybeans
+36	Pokemon Sleep - ClefableClefable
+Pokemon Sleep - Fairy Pokemon Sleep - Snoozing
+Berries
+Pecha Berry x2 | Fancy AppleHoneyGreengrass Soybeans
+37	Pokemon Sleep - VulpixVulpix
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Berries
+Leppa Berry x2 | Greengrass SoybeansGreengrass CornSoft Potato
+37.1	Pokemon Sleep - Alolan VulpixAlolan Vulpix
+Pokemon Sleep - Ice Pokemon Sleep - Slumbering
+Berries
+Rawst Berry x2 | Greengrass SoybeansGreengrass CornSoft Potato
+38	Pokemon Sleep - NinetalesNinetales
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Berries
+Leppa Berry x2 | Greengrass SoybeansGreengrass CornSoft Potato
+38.1	Pokemon Sleep - Alolan NinetalesAlolan Ninetales
+Pokemon Sleep - Ice Pokemon Sleep - Slumbering
+Berries
+Rawst Berry x2 | Greengrass SoybeansGreengrass CornSoft Potato
+39	Pokemon Sleep - JigglypuffJigglypuff
+Pokemon Sleep - Fairy Pokemon Sleep - Snoozing
+Skills
+Pecha Berry x1 | HoneyPure OilSoothing Cacao
+40	Pokemon Sleep - WigglytuffWigglytuff
+Pokemon Sleep - Fairy Pokemon Sleep - Snoozing
+Skills
+Pecha Berry x1 | HoneyPure OilSoothing Cacao
+50	Pokemon Sleep - DiglettDiglett
+Pokemon Sleep - Ground Pokemon Sleep - Snoozing
+Ingredients
+Figy Berry x1 | Snoozy TomatoLarge LeekGreengrass Soybeans
+51	Pokemon Sleep - DugtrioDugtrio
+Pokemon Sleep - Ground Pokemon Sleep - Snoozing
+Ingredients
+Figy Berry x1 | Snoozy TomatoLarge LeekGreengrass Soybeans
+52	Pokemon Sleep - MeowthMeowth
+Pokemon Sleep - Normal Pokemon Sleep - Snoozing
+Skills
+Persim Berry x1 | Moomoo MilkBean Sausage
+53	Pokemon Sleep - PersianPersian
+Pokemon Sleep - Normal Pokemon Sleep - Snoozing
+Skills
+Persim Berry x1 | Moomoo MilkBean Sausage
+54	Pokemon Sleep - PsyduckPsyduck
+Pokemon Sleep - Water Pokemon Sleep - Dozing
+Skills
+Oran Berry x1 | Soothing CacaoFancy AppleBean Sausage
+55	Pokemon Sleep - GolduckGolduck
+Pokemon Sleep - Water Pokemon Sleep - Slumbering
+Skills
+Oran Berry x1 | Soothing CacaoFancy AppleBean Sausage
+56	Pokemon Sleep - MankeyMankey
+Pokemon Sleep - Fighting Pokemon Sleep - Dozing
+Berries
+Cheri Berry x2 | Bean SausageTasty MushroomHoney
+57	Pokemon Sleep - PrimeapePrimeape
+Pokemon Sleep - Fighting Pokemon Sleep - Dozing
+Berries
+Cheri Berry x2 | Bean SausageTasty MushroomHoney
+58	Pokemon Sleep - GrowlitheGrowlithe
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Skills
+Leppa Berry x1 | Fiery HerbBean SausageMoomoo Milk
+59	Pokemon Sleep - ArcanineArcanine
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Skills
+Leppa Berry x1 | Fiery HerbBean SausageMoomoo Milk
+69	Pokemon Sleep - BellsproutBellsprout
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Ingredients
+Durin Berry x1 | Snoozy TomatoSoft PotatoLarge Leek
+70	Pokemon Sleep - WeepinbellWeepinbell
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Ingredients
+Durin Berry x1 | Snoozy TomatoSoft PotatoLarge Leek
+71	Pokemon Sleep - VictreebelVictreebel
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Ingredients
+Durin Berry x1 | Snoozy TomatoSoft PotatoLarge Leek
+74	Pokemon Sleep - GeodudeGeodude
+Pokemon Sleep - Rock Pokemon Sleep - Slumbering
+Ingredients
+Sitrus Berry x1 | Greengrass SoybeansSoft PotatoTasty Mushroom
+75	Pokemon Sleep - GravelerGraveler
+Pokemon Sleep - Rock Pokemon Sleep - Slumbering
+Ingredients
+Sitrus Berry x1 | Greengrass SoybeansSoft PotatoTasty Mushroom
+76	Pokemon Sleep - GolemGolem
+Pokemon Sleep - Rock Pokemon Sleep - Slumbering
+Ingredients
+Sitrus Berry x1 | Greengrass SoybeansSoft PotatoTasty Mushroom
+79	Pokemon Sleep - SlowpokeSlowpoke
+Pokemon Sleep - Water Pokemon Sleep - Snoozing
+Skills
+Oran Berry x1 | Soothing CacaoSlowpoke TailSnoozy Tomato
+80	Pokemon Sleep - SlowbroSlowbro
+Pokemon Sleep - Water Pokemon Sleep - Snoozing
+Skills
+Oran Berry x1 | Soothing CacaoSlowpoke TailSnoozy Tomato
+81	Pokemon Sleep - MagnemiteMagnemite
+Pokemon Sleep - Steel Pokemon Sleep - Slumbering
+Skills
+Belue Berry x1 | Pure OilFiery Herb
+82	Pokemon Sleep - MagnetonMagneton
+Pokemon Sleep - Steel Pokemon Sleep - Slumbering
+Skills
+Belue Berry x1 | Pure OilFiery Herb
+83	Pokemon Sleep - FarfetchFarfetch'd
+Pokemon Sleep - Flying Pokemon Sleep - Slumbering
+Ingredients
+Pamtre Berry x1 | Large LeekBean SausageWarming Ginger
+84	Pokemon Sleep - DoduoDoduo
+Pokemon Sleep - Flying Pokemon Sleep - Slumbering
+Berries
+Pamtre Berry x2 | Greengrass SoybeansSoothing CacaoBean Sausage
+85	Pokemon Sleep - DodrioDodrio
+Pokemon Sleep - Flying Pokemon Sleep - Slumbering
+Berries
+Pamtre Berry x2 | Greengrass SoybeansSoothing CacaoBean Sausage
+92	Pokemon Sleep - GastlyGastly
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Ingredients
+Bluk Berry x1 | Fiery HerbTasty MushroomPure Oil
+93	Pokemon Sleep - HaunterHaunter
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Ingredients
+Bluk Berry x1 | Fiery HerbTasty MushroomPure Oil
+94	Pokemon Sleep - GengarGengar
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Ingredients
+Bluk Berry x1 | Fiery HerbTasty MushroomPure Oil
+95	Pokemon Sleep - OnixOnix
+Pokemon Sleep - Rock Pokemon Sleep - Slumbering
+Berries
+Sitrus Berry x2 | Snoozy TomatoBean SausageSoft Potato
+104	Pokemon Sleep - CuboneCubone
+Pokemon Sleep - Ground Pokemon Sleep - Slumbering
+Berries
+Figy Berry x2 | Warming GingerSoothing Cacao
+105	Pokemon Sleep - MarowakMarowak
+Pokemon Sleep - Ground Pokemon Sleep - Slumbering
+Berries
+Figy Berry x2 | Warming GingerSoothing Cacao
+113	Pokemon Sleep - ChanseyChansey
+Pokemon Sleep - Normal Pokemon Sleep - Snoozing
+Ingredients
+Persim Berry x1 | Fancy EggSoft PotatoHoney
+115	Pokemon Sleep - KangaskhanKangaskhan
+Pokemon Sleep - Normal Pokemon Sleep - Snoozing
+Ingredients
+Persim Berry x1 | Warming GingerSoft PotatoGreengrass Soybeans
+122	Pokemon Sleep - Mr. MimeMr. Mime
+Pokemon Sleep - Psychic Pokemon Sleep - Snoozing
+Ingredients
+Mago Berry x1 | Snoozy TomatoSoft PotatoLarge Leek
+127	Pokemon Sleep - PinsirPinsir
+Pokemon Sleep - Bug Pokemon Sleep - Dozing
+Ingredients
+Lum Berry x1 | HoneyFancy AppleBean Sausage
+132	Pokemon Sleep - DittoDitto
+Pokemon Sleep - Normal Pokemon Sleep - Snoozing
+Ingredients
+Persim Berry x1 | Pure OilLarge LeekSlowpoke Tail
+133	Pokemon Sleep - EeveeEevee
+Pokemon Sleep - Normal Pokemon Sleep - Snoozing
+Skills
+Persim Berry x1 | Moomoo MilkSoothing CacaoBean Sausage
+133.1	Pokemon Sleep - Eevee (Holiday)Eevee (Holiday)
+Pokemon Sleep - Normal Pokemon Sleep - Snoozing
+Berries
+Persim Berry x2 | Moomoo MilkSoothing Cacao
+133.2	Pokemon Sleep - Eevee (Halloween)Eevee (Halloween)
+Pokemon Sleep - Normal Pokemon Sleep - Snoozing
+Skills
+Persim Berry x1 | Plump PumpkinSoothing CacaoMoomoo Milk
+134	Pokemon Sleep - VaporeonVaporeon
+Pokemon Sleep - Water Pokemon Sleep - Slumbering
+Skills
+Oran Berry x1 | Moomoo MilkSoothing CacaoBean Sausage
+135	Pokemon Sleep - JolteonJolteon
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Skills
+Grepa Berry x1 | Moomoo MilkSoothing CacaoBean Sausage
+136	Pokemon Sleep - FlareonFlareon
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Skills
+Leppa Berry x1 | Moomoo MilkSoothing CacaoBean Sausage
+147	Pokemon Sleep - DratiniDratini
+Pokemon Sleep - Dragon Pokemon Sleep - Dozing
+Ingredients
+Yache Berry x1 | Fiery HerbGreengrass CornPure Oil
+148	Pokemon Sleep - DragonairDragonair
+Pokemon Sleep - Dragon Pokemon Sleep - Dozing
+Ingredients
+Yache Berry x1 | Fiery HerbGreengrass CornPure Oil
+149	Pokemon Sleep - DragoniteDragonite
+Pokemon Sleep - Dragon Pokemon Sleep - Dozing
+Ingredients
+Yache Berry x1 | Fiery HerbGreengrass CornPure Oil
+152	Pokemon Sleep - ChikoritaChikorita
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Berries
+Durin Berry x2 | Soothing CacaoHoneyLarge Leek
+153	Pokemon Sleep - BayleefBayleef
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Berries
+Durin Berry x2 | Soothing CacaoHoneyLarge Leek
+154	Pokemon Sleep - MeganiumMeganium
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Berries
+Durin Berry x2 | Soothing CacaoHoneyLarge Leek
+155	Pokemon Sleep - CyndaquilCyndaquil
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Berries
+Leppa Berry x2 | Warming GingerFiery HerbPure Oil
+156	Pokemon Sleep - QuilavaQuilava
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Berries
+Leppa Berry x2 | Warming GingerFiery HerbPure Oil
+157	Pokemon Sleep - TyphlosionTyphlosion
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Berries
+Leppa Berry x2 | Warming GingerFiery HerbPure Oil
+158	Pokemon Sleep - TotodileTotodile
+Pokemon Sleep - Water Pokemon Sleep - Slumbering
+Berries
+Oran Berry x2 | Bean SausagePure Oil
+159	Pokemon Sleep - CroconawCroconaw
+Pokemon Sleep - Water Pokemon Sleep - Slumbering
+Berries
+Oran Berry x2 | Bean SausagePure Oil
+160	Pokemon Sleep - FeraligatrFeraligatr
+Pokemon Sleep - Water Pokemon Sleep - Slumbering
+Berries
+Oran Berry x2 | Bean SausagePure Oil
+172	Pokemon Sleep - PichuPichu
+Pokemon Sleep - Electric Pokemon Sleep - Slumbering
+Berries
+Grepa Berry x2 | Fancy AppleWarming GingerFancy Egg
+173	Pokemon Sleep - CleffaCleffa
+Pokemon Sleep - Fairy Pokemon Sleep - Slumbering
+Berries
+Pecha Berry x2 | Fancy AppleHoneyGreengrass Soybeans
+174	Pokemon Sleep - IgglybuffIgglybuff
+Pokemon Sleep - Fairy Pokemon Sleep - Slumbering
+Skills
+Pecha Berry x1 | HoneyPure OilSoothing Cacao
+175	Pokemon Sleep - TogepiTogepi
+Pokemon Sleep - Fairy Pokemon Sleep - Slumbering
+Skills
+Pecha Berry x1 | Fancy EggWarming GingerSoothing Cacao
+176	Pokemon Sleep - TogeticTogetic
+Pokemon Sleep - Fairy Pokemon Sleep - Snoozing
+Skills
+Pecha Berry x1 | Fancy EggWarming GingerSoothing Cacao
+177	Pokemon Sleep - NatuNatu
+Pokemon Sleep - Psychic Pokemon Sleep - Snoozing
+Berries
+Mago Berry x2 | Fancy EggSoothing CacaoFancy Apple
+178	Pokemon Sleep - XatuXatu
+Pokemon Sleep - Psychic Pokemon Sleep - Snoozing
+Berries
+Mago Berry x2 | Fancy EggSoothing CacaoFancy Apple
+179	Pokemon Sleep - MareepMareep
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Skills
+Grepa Berry x1 | Fiery HerbFancy Egg
+180	Pokemon Sleep - FlaaffyFlaaffy
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Skills
+Grepa Berry x1 | Fiery HerbFancy Egg
+181	Pokemon Sleep - AmpharosAmpharos
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Skills
+Grepa Berry x1 | Fiery HerbFancy Egg
+185	Pokemon Sleep - SudowoodoSudowoodo
+Pokemon Sleep - Rock Pokemon Sleep - Slumbering
+Skills
+Sitrus Berry x1 | Snoozy TomatoGreengrass SoybeansTasty Mushroom
+194	Pokemon Sleep - WooperWooper
+Pokemon Sleep - Water Pokemon Sleep - Slumbering
+Ingredients
+Oran Berry x1 | Tasty MushroomSoft PotatoBean Sausage
+194.1	Pokemon Sleep - Paldean WooperPaldean Wooper
+Pokemon Sleep - Poison Pokemon Sleep - Dozing
+Ingredients
+Chesto Berry x1 | Soothing CacaoRousing CoffeeSoft Potato
+195	Pokemon Sleep - QuagsireQuagsire
+Pokemon Sleep - Water Pokemon Sleep - Slumbering
+Ingredients
+Oran Berry x1 | Tasty MushroomSoft PotatoBean Sausage
+196	Pokemon Sleep - EspeonEspeon
+Pokemon Sleep - Psychic Pokemon Sleep - Snoozing
+Skills
+Mago Berry x1 | Moomoo MilkSoothing CacaoBean Sausage
+197	Pokemon Sleep - UmbreonUmbreon
+Pokemon Sleep - Dark Pokemon Sleep - Dozing
+Skills
+Wiki Berry x1 | Moomoo MilkSoothing CacaoBean Sausage
+198	Pokemon Sleep - MurkrowMurkrow
+Pokemon Sleep - Dark Pokemon Sleep - Dozing
+Skills
+Wiki Berry x1 | Rousing CoffeeGreengrass SoybeansFiery Herb
+199	Pokemon Sleep - SlowkingSlowking
+Pokemon Sleep - Water Pokemon Sleep - Snoozing
+Skills
+Oran Berry x1 | Soothing CacaoSlowpoke TailSnoozy Tomato
+202	Pokemon Sleep - WobbuffetWobbuffet
+Pokemon Sleep - Psychic Pokemon Sleep - Snoozing
+Skills
+Mago Berry x1 | Fancy AppleTasty MushroomPure Oil
+208	Pokemon Sleep - SteelixSteelix
+Pokemon Sleep - Steel Pokemon Sleep - Slumbering
+Berries
+Belue Berry x2 | Snoozy TomatoBean SausageSoft Potato
+214	Pokemon Sleep - HeracrossHeracross
+Pokemon Sleep - Bug Pokemon Sleep - Dozing
+Skills
+Lum Berry x1 | HoneyTasty MushroomBean Sausage
+215	Pokemon Sleep - SneaselSneasel
+Pokemon Sleep - Dark Pokemon Sleep - Dozing
+Berries
+Wiki Berry x2 | Bean SausageFancy EggGreengrass Soybeans
+225	Pokemon Sleep - DelibirdDelibird
+Pokemon Sleep - Flying Pokemon Sleep - Dozing
+Ingredients
+Pamtre Berry x1 | Fancy EggFancy AppleSoothing Cacao
+228	Pokemon Sleep - HoundourHoundour
+Pokemon Sleep - Dark Pokemon Sleep - Dozing
+Berries
+Wiki Berry x2 | Fiery HerbWarming GingerLarge Leek
+229	Pokemon Sleep - HoundoomHoundoom
+Pokemon Sleep - Dark Pokemon Sleep - Dozing
+Berries
+Wiki Berry x2 | Fiery HerbWarming GingerLarge Leek
+242	Pokemon Sleep - BlisseyBlissey
+Pokemon Sleep - Normal Pokemon Sleep - Snoozing
+Ingredients
+Persim Berry x1 | Fancy EggSoft PotatoHoney
+243	Pokemon Sleep - RaikouRaikou
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Skills
+Grepa Berry x1 | Bean SausageFiery HerbLarge Leek
+244	Pokemon Sleep - EnteiEntei
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Skills
+Leppa Berry x1 | Pure OilSnoozy TomatoTasty Mushroom
+245	Pokemon Sleep - SuicuneSuicune
+Pokemon Sleep - Water Pokemon Sleep - Slumbering
+Skills
+Oran Berry x1 | Fancy ApplePure OilGreengrass Corn
+246	Pokemon Sleep - LarvitarLarvitar
+Pokemon Sleep - Rock Pokemon Sleep - Slumbering
+Ingredients
+Sitrus Berry x1 | Warming GingerGreengrass SoybeansBean Sausage
+247	Pokemon Sleep - PupitarPupitar
+Pokemon Sleep - Rock Pokemon Sleep - Slumbering
+Ingredients
+Sitrus Berry x1 | Warming GingerGreengrass SoybeansBean Sausage
+248	Pokemon Sleep - TyranitarTyranitar
+Pokemon Sleep - Dark Pokemon Sleep - Dozing
+Ingredients
+Wiki Berry x1 | Warming GingerGreengrass SoybeansBean Sausage
+252	Pokemon Sleep - TreeckoTreecko
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Skills
+Durin Berry x1 | Fancy EggRousing CoffeeLarge Leek
+253	Pokemon Sleep - GrovyleGrovyle
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Skills
+Durin Berry x1 | Fancy EggRousing CoffeeLarge Leek
+254	Pokemon Sleep - SceptileSceptile
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Skills
+Durin Berry x1 | Fancy EggRousing CoffeeLarge Leek
+255	Pokemon Sleep - TorchicTorchic
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Berries
+Leppa Berry x2 | Tasty MushroomGreengrass SoybeansPure Oil
+256	Pokemon Sleep - CombuskenCombusken
+Pokemon Sleep - Fighting Pokemon Sleep - Slumbering
+Berries
+Cheri Berry x2 | Tasty MushroomGreengrass SoybeansPure Oil
+257	Pokemon Sleep - BlazikenBlaziken
+Pokemon Sleep - Fighting Pokemon Sleep - Slumbering
+Berries
+Cheri Berry x2 | Tasty MushroomGreengrass SoybeansPure Oil
+258	Pokemon Sleep - MudkipMudkip
+Pokemon Sleep - Water Pokemon Sleep - Slumbering
+Berries
+Oran Berry x2 | Greengrass CornMoomoo MilkTasty Mushroom
+259	Pokemon Sleep - MarshtompMarshtomp
+Pokemon Sleep - Ground Pokemon Sleep - Slumbering
+Berries
+Figy Berry x2 | Greengrass CornMoomoo MilkTasty Mushroom
+260	Pokemon Sleep - SwampertSwampert
+Pokemon Sleep - Ground Pokemon Sleep - Slumbering
+Berries
+Figy Berry x2 | Greengrass CornMoomoo MilkTasty Mushroom
+280	Pokemon Sleep - RaltsRalts
+Pokemon Sleep - Psychic Pokemon Sleep - Snoozing
+Skills
+Mago Berry x1 | Fancy AppleGreengrass CornLarge Leek
+281	Pokemon Sleep - KirliaKirlia
+Pokemon Sleep - Psychic Pokemon Sleep - Snoozing
+Skills
+Mago Berry x1 | Fancy AppleGreengrass CornLarge Leek
+282	Pokemon Sleep - GardevoirGardevoir
+Pokemon Sleep - Psychic Pokemon Sleep - Snoozing
+Skills
+Mago Berry x1 | Fancy AppleGreengrass CornLarge Leek
+287	Pokemon Sleep - SlakothSlakoth
+Pokemon Sleep - Normal Pokemon Sleep - Snoozing
+Berries
+Persim Berry x2 | Snoozy TomatoHoneyFancy Apple
+288	Pokemon Sleep - VigorothVigoroth
+Pokemon Sleep - Normal Pokemon Sleep - Dozing
+Berries
+Persim Berry x2 | Snoozy TomatoHoneyFancy Apple
+289	Pokemon Sleep - SlakingSlaking
+Pokemon Sleep - Normal Pokemon Sleep - Snoozing
+Berries
+Persim Berry x2 | Snoozy TomatoHoneyFancy Apple
+302	Pokemon Sleep - SableyeSableye
+Pokemon Sleep - Dark Pokemon Sleep - Dozing
+Skills
+Wiki Berry x1 | Pure OilTasty MushroomSoothing Cacao
+303	Pokemon Sleep - MawileMawile
+Pokemon Sleep - Steel Pokemon Sleep - Slumbering
+Ingredients
+Belue Berry x1 | Pure OilGreengrass CornSnoozy Tomato
+304	Pokemon Sleep - AronAron
+Pokemon Sleep - Steel Pokemon Sleep - Slumbering
+Ingredients
+Belue Berry x1 | Bean SausageRousing CoffeeGreengrass Soybeans
+305	Pokemon Sleep - LaironLairon
+Pokemon Sleep - Steel Pokemon Sleep - Slumbering
+Ingredients
+Belue Berry x1 | Bean SausageRousing CoffeeGreengrass Soybeans
+306	Pokemon Sleep - AggronAggron
+Pokemon Sleep - Steel Pokemon Sleep - Slumbering
+Ingredients
+Belue Berry x1 | Bean SausageRousing CoffeeGreengrass Soybeans
+311	Pokemon Sleep - PluslePlusle
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Skills
+Grepa Berry x1 | Rousing CoffeeLarge LeekMoomoo Milk
+312	Pokemon Sleep - MinunMinun
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Skills
+Grepa Berry x1 | HoneyFancy EggMoomoo Milk
+316	Pokemon Sleep - GulpinGulpin
+Pokemon Sleep - Poison Pokemon Sleep - Dozing
+Skills
+Chesto Berry x1 | Greengrass SoybeansTasty MushroomHoney
+317	Pokemon Sleep - SwalotSwalot
+Pokemon Sleep - Poison Pokemon Sleep - Dozing
+Skills
+Chesto Berry x1 | Greengrass SoybeansTasty MushroomHoney
+328	Pokemon Sleep - TrapinchTrapinch
+Pokemon Sleep - Ground Pokemon Sleep - Slumbering
+Ingredients
+Figy Berry x1 | Glossy AvocadoFiery HerbGreengrass Soybeans
+329	Pokemon Sleep - VibravaVibrava
+Pokemon Sleep - Ground Pokemon Sleep - Slumbering
+Ingredients
+Figy Berry x1 | Glossy AvocadoFiery HerbGreengrass Soybeans
+330	Pokemon Sleep - FlygonFlygon
+Pokemon Sleep - Ground Pokemon Sleep - Slumbering
+Ingredients
+Figy Berry x1 | Glossy AvocadoFiery HerbGreengrass Soybeans
+333	Pokemon Sleep - SwabluSwablu
+Pokemon Sleep - Flying Pokemon Sleep - Slumbering
+Berries
+Pamtre Berry x2 | Fancy EggGreengrass SoybeansFancy Apple
+334	Pokemon Sleep - AltariaAltaria
+Pokemon Sleep - Dragon Pokemon Sleep - Dozing
+Berries
+Yache Berry x2 | Fancy EggGreengrass SoybeansFancy Apple
+353	Pokemon Sleep - ShuppetShuppet
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Berries
+Bluk Berry x2 | Pure OilWarming GingerTasty Mushroom
+354	Pokemon Sleep - BanetteBanette
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Berries
+Bluk Berry x2 | Pure OilWarming GingerTasty Mushroom
+359	Pokemon Sleep - AbsolAbsol
+Pokemon Sleep - Dark Pokemon Sleep - Dozing
+Ingredients
+Wiki Berry x1 | Soothing CacaoFancy AppleTasty Mushroom
+360	Pokemon Sleep - WynautWynaut
+Pokemon Sleep - Psychic Pokemon Sleep - Slumbering
+Skills
+Mago Berry x1 | Fancy AppleTasty MushroomPure Oil
+363	Pokemon Sleep - SphealSpheal
+Pokemon Sleep - Ice Pokemon Sleep - Slumbering
+Berries
+Rawst Berry x2 | Pure OilBean SausageWarming Ginger
+364	Pokemon Sleep - SealeoSealeo
+Pokemon Sleep - Ice Pokemon Sleep - Slumbering
+Berries
+Rawst Berry x2 | Pure OilBean SausageWarming Ginger
+365	Pokemon Sleep - WalreinWalrein
+Pokemon Sleep - Ice Pokemon Sleep - Slumbering
+Berries
+Rawst Berry x2 | Pure OilBean SausageWarming Ginger
+371	Pokemon Sleep - BagonBagon
+Pokemon Sleep - Dragon Pokemon Sleep - Dozing
+Berries
+Yache Berry x2 | Soft PotatoWarming GingerBean Sausage
+372	Pokemon Sleep - ShelgonShelgon
+Pokemon Sleep - Dragon Pokemon Sleep - Dozing
+Berries
+Yache Berry x2 | Soft PotatoWarming GingerBean Sausage
+373	Pokemon Sleep - SalamenceSalamence
+Pokemon Sleep - Dragon Pokemon Sleep - Dozing
+Berries
+Yache Berry x2 | Soft PotatoWarming GingerBean Sausage
+403	Pokemon Sleep - ShinxShinx
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Ingredients
+Grepa Berry x1 | Snoozy TomatoPure OilRousing Coffee
+404	Pokemon Sleep - LuxioLuxio
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Ingredients
+Grepa Berry x1 | Snoozy TomatoPure OilRousing Coffee
+405	Pokemon Sleep - LuxrayLuxray
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Ingredients
+Grepa Berry x1 | Snoozy TomatoPure OilRousing Coffee
+425	Pokemon Sleep - DrifloonDrifloon
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Skills
+Bluk Berry x1 | Greengrass CornPure OilSoft Potato
+426	Pokemon Sleep - DrifblimDrifblim
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Skills
+Bluk Berry x1 | Greengrass CornPure OilSoft Potato
+430	Pokemon Sleep - HonchkrowHonchkrow
+Pokemon Sleep - Dark Pokemon Sleep - Dozing
+Skills
+Wiki Berry x1 | Rousing CoffeeGreengrass SoybeansFiery Herb
+438	Pokemon Sleep - BonslyBonsly
+Pokemon Sleep - Rock Pokemon Sleep - Slumbering
+Skills
+Sitrus Berry x1 | Snoozy TomatoGreengrass SoybeansTasty Mushroom
+439	Pokemon Sleep - Mime Jr.Mime Jr.
+Pokemon Sleep - Psychic Pokemon Sleep - Slumbering
+Ingredients
+Mago Berry x1 | Snoozy TomatoSoft PotatoLarge Leek
+440	Pokemon Sleep - HappinyHappiny
+Pokemon Sleep - Normal Pokemon Sleep - Slumbering
+Ingredients
+Persim Berry x1 | Fancy EggSoft PotatoHoney
+447	Pokemon Sleep - RioluRiolu
+Pokemon Sleep - Fighting Pokemon Sleep - Slumbering
+Skills
+Cheri Berry x1 | Pure OilSoft PotatoFancy Egg
+448	Pokemon Sleep - LucarioLucario
+Pokemon Sleep - Fighting Pokemon Sleep - Slumbering
+Skills
+Cheri Berry x1 | Pure OilSoft PotatoFancy Egg
+453	Pokemon Sleep - CroagunkCroagunk
+Pokemon Sleep - Poison Pokemon Sleep - Dozing
+Ingredients
+Chesto Berry x1 | Pure OilBean Sausage
+454	Pokemon Sleep - ToxicroakToxicroak
+Pokemon Sleep - Poison Pokemon Sleep - Dozing
+Ingredients
+Chesto Berry x1 | Pure OilBean Sausage
+459	Pokemon Sleep - SnoverSnover
+Pokemon Sleep - Ice Pokemon Sleep - Slumbering
+Ingredients
+Rawst Berry x1 | Snoozy TomatoFancy EggTasty Mushroom
+460	Pokemon Sleep - AbomasnowAbomasnow
+Pokemon Sleep - Ice Pokemon Sleep - Slumbering
+Ingredients
+Rawst Berry x1 | Snoozy TomatoFancy EggTasty Mushroom
+461	Pokemon Sleep - WeavileWeavile
+Pokemon Sleep - Dark Pokemon Sleep - Dozing
+Berries
+Wiki Berry x2 | Bean SausageFancy EggGreengrass Soybeans
+462	Pokemon Sleep - MagnezoneMagnezone
+Pokemon Sleep - Steel Pokemon Sleep - Slumbering
+Skills
+Belue Berry x1 | Pure OilFiery Herb
+468	Pokemon Sleep - TogekissTogekiss
+Pokemon Sleep - Fairy Pokemon Sleep - Snoozing
+Skills
+Pecha Berry x1 | Fancy EggWarming GingerSoothing Cacao
+470	Pokemon Sleep - LeafeonLeafeon
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Skills
+Durin Berry x1 | Moomoo MilkSoothing CacaoBean Sausage
+471	Pokemon Sleep - GlaceonGlaceon
+Pokemon Sleep - Ice Pokemon Sleep - Slumbering
+Skills
+Rawst Berry x1 | Moomoo MilkSoothing CacaoBean Sausage
+475	Pokemon Sleep - GalladeGallade
+Pokemon Sleep - Fighting Pokemon Sleep - Slumbering
+Skills
+Cheri Berry x1 | Fancy AppleGreengrass CornLarge Leek
+488	Pokemon Sleep - CresseliaCresselia
+Pokemon Sleep - Psychic Pokemon Sleep - Snoozing
+Skills
+Mago Berry x1 | Warming GingerSoothing CacaoSnoozy Tomato
+491	Pokemon Sleep - DarkraiDarkrai
+Pokemon Sleep - Dark Pokemon Sleep - Dozing
+All
+Wiki Berry x2 | Bean Sausage
+517	Pokemon Sleep - MunnaMunna
+Pokemon Sleep - Psychic Pokemon Sleep - Snoozing
+Berries
+Mago Berry x2 | Moomoo MilkHoneyRousing Coffee
+518	Pokemon Sleep - MusharnaMusharna
+Pokemon Sleep - Psychic Pokemon Sleep - Snoozing
+Berries
+Mago Berry x2 | Moomoo MilkHoneyRousing Coffee
+557	Pokemon Sleep - DwebbleDwebble
+Pokemon Sleep - Bug Pokemon Sleep - Dozing
+Skills
+Lum Berry x1 | Glossy AvocadoSoft PotatoPure Oil
+558	Pokemon Sleep - CrustleCrustle
+Pokemon Sleep - Bug Pokemon Sleep - Dozing
+Skills
+Lum Berry x1 | Glossy AvocadoSoft PotatoPure Oil
+627	Pokemon Sleep - RuffletRufflet
+Pokemon Sleep - Flying Pokemon Sleep - Slumbering
+Skills
+Pamtre Berry x1 | Bean SausageGreengrass CornRousing Coffee
+628	Pokemon Sleep - BraviaryBraviary
+Pokemon Sleep - Flying Pokemon Sleep - Slumbering
+Skills
+Pamtre Berry x1 | Bean SausageGreengrass CornRousing Coffee
+700	Pokemon Sleep - SylveonSylveon
+Pokemon Sleep - Fairy Pokemon Sleep - Snoozing
+Skills
+Pecha Berry x1 | Moomoo MilkSoothing CacaoBean Sausage
+702	Pokemon Sleep - DedenneDedenne
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Skills
+Grepa Berry x1 | Fancy AppleSoothing CacaoGreengrass Corn
+710	Pokemon Sleep - PumpkabooPumpkaboo
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Ingredients
+Bluk Berry x1 | Plump PumpkinGreengrass SoybeansSoft Potato
+710.1	Pokemon Sleep - PumpkabooPumpkaboo
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Ingredients
+Bluk Berry x1 | TBD
+710.2	Pokemon Sleep - PumpkabooPumpkaboo
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Ingredients
+Bluk Berry x1 | TBD
+710.3	Pokemon Sleep - PumpkabooPumpkaboo
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Ingredients
+Bluk Berry x1 | TBD
+711	Pokemon Sleep - GourgeistGourgeist
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Ingredients
+Bluk Berry x1 | Plump PumpkinGreengrass SoybeansSoft Potato
+711.1	Pokemon Sleep - GourgeistGourgeist
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Ingredients
+Bluk Berry x1 | TBD
+711.2	Pokemon Sleep - GourgeistGourgeist
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Ingredients
+Bluk Berry x1 | TBD
+711.3	Pokemon Sleep - GourgeistGourgeist
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Ingredients
+Bluk Berry x1 | TBD
+736	Pokemon Sleep - GrubbinGrubbin
+Pokemon Sleep - Bug Pokemon Sleep - Dozing
+Ingredients
+Lum Berry x1 | Rousing CoffeeTasty MushroomHoney
+737	Pokemon Sleep - CharjabugCharjabug
+Pokemon Sleep - Bug Pokemon Sleep - Dozing
+Ingredients
+Lum Berry x1 | Rousing CoffeeTasty MushroomHoney
+738	Pokemon Sleep - VikavoltVikavolt
+Pokemon Sleep - Bug Pokemon Sleep - Dozing
+Ingredients
+Lum Berry x1 | Rousing CoffeeTasty MushroomHoney
+759	Pokemon Sleep - StuffulStufful
+Pokemon Sleep - Fighting Pokemon Sleep - Slumbering
+Ingredients
+Cheri Berry x1 | Greengrass CornBean SausageFancy Egg
+760	Pokemon Sleep - BewearBewear
+Pokemon Sleep - Fighting Pokemon Sleep - Slumbering
+Ingredients
+Cheri Berry x1 | Greengrass CornBean SausageFancy Egg
+764	Pokemon Sleep - ComfeyComfey
+Pokemon Sleep - Fairy Pokemon Sleep - Snoozing
+Ingredients
+Pecha Berry x1 | Greengrass CornWarming GingerSoothing Cacao
+778	Pokemon Sleep - MimikyuMimikyu
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Skills
+Bluk Berry x1 | Fancy AppleRousing CoffeeTasty Mushroom
+845	Pokemon Sleep - CramorantCramorant
+Pokemon Sleep - Flying Pokemon Sleep - Slumbering
+Ingredients
+Pamtre Berry x1 | Pure OilSoft PotatoFancy Egg
+848	Pokemon Sleep - ToxelToxel
+Pokemon Sleep - Poison Pokemon Sleep - Slumbering
+Skills
+Chesto Berry x1 | Moomoo MilkFancy AppleLarge Leek
+849	Pokemon Sleep - Toxtricity (Amped Form)Toxtricity (Amped Form)
+Pokemon Sleep - Poison Pokemon Sleep - Dozing
+Skills
+Chesto Berry x1 | Moomoo MilkFancy AppleLarge Leek
+849.1	Pokemon Sleep - Toxtricity (Low Key Form)Toxtricity (Low Key Form)
+Pokemon Sleep - Poison Pokemon Sleep - Dozing
+Skills
+Chesto Berry x1 | Moomoo MilkFancy AppleLarge Leek
+906	Pokemon Sleep - SprigatitoSprigatito
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Ingredients
+Durin Berry x1 | Soft PotatoMoomoo MilkWarming Ginger
+907	Pokemon Sleep - FloragatoFloragato
+Pokemon Sleep - Grass Pokemon Sleep - Dozing
+Ingredients
+Durin Berry x1 | Soft PotatoMoomoo MilkWarming Ginger
+908	Pokemon Sleep - MeowscaradaMeowscarada
+Pokemon Sleep - Dark Pokemon Sleep - Dozing
+Ingredients
+Wiki Berry x1 | Soft PotatoMoomoo MilkWarming Ginger
+909	Pokemon Sleep - FuecocoFuecoco
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Ingredients
+Leppa Berry x1 | Fancy AppleBean SausageFiery Herb
+910	Pokemon Sleep - CrocalorCrocalor
+Pokemon Sleep - Fire Pokemon Sleep - Snoozing
+Ingredients
+Leppa Berry x1 | Fancy AppleBean SausageFiery Herb
+911	Pokemon Sleep - SkeledirgeSkeledirge
+Pokemon Sleep - Ghost Pokemon Sleep - Dozing
+Ingredients
+Bluk Berry x1 | Fancy AppleBean SausageFiery Herb
+912	Pokemon Sleep - QuaxlyQuaxly
+Pokemon Sleep - Water Pokemon Sleep - Slumbering
+Ingredients
+Oran Berry x1 | Greengrass SoybeansLarge LeekPure Oil
+913	Pokemon Sleep - QuaxwellQuaxwell
+Pokemon Sleep - Water Pokemon Sleep - Slumbering
+Ingredients
+Oran Berry x1 | Greengrass SoybeansLarge LeekPure Oil
+914	Pokemon Sleep - QuaquavalQuaquaval
+Pokemon Sleep - Fighting Pokemon Sleep - Slumbering
+Ingredients
+Cheri Berry x1 | Greengrass SoybeansLarge LeekPure Oil
+921	Pokemon Sleep - PawmiPawmi
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Skills
+Grepa Berry x1 | Soothing CacaoMoomoo MilkFancy Egg
+922	Pokemon Sleep - PawmoPawmo
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Skills
+Grepa Berry x1 | Soothing CacaoMoomoo MilkFancy Egg
+923	Pokemon Sleep - PawmotPawmot
+Pokemon Sleep - Electric Pokemon Sleep - Snoozing
+Skills
+Grepa Berry x1 | Soothing CacaoMoomoo MilkFancy Egg
+980	Pokemon Sleep - ClodsireClodsire
+Pokemon Sleep - Poison Pokemon Sleep - Dozing
+Ingredients
+Chesto Berry x1 | Soothing CacaoRousing CoffeeSoft Potato
