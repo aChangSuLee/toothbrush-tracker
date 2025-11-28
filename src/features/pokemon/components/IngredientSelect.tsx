@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Ingredient } from '../types/pokemon';
-import { getIngredients } from '../utils/dataLoader';
 
 interface IngredientSelectProps {
   onSelect: (ingredients: Ingredient[]) => void;
@@ -92,7 +91,7 @@ const IngredientSelect: React.FC<IngredientSelectProps> = ({ onSelect, maxSlots 
             >
               {selectedIngredients[index]?.name || '선택 없음'}
             </button>
-            
+
             {activeDropdown === index && (
               <div className="absolute z-10 w-full mt-1 bg-white border rounded-lg shadow-lg ingredient-dropdown">
                 <div className="p-2 border-b">

@@ -1,17 +1,19 @@
+
 import React, { useState, useEffect } from 'react';
-import { Recipe } from '../types/recipe';
-import { getRecipes } from '../utils/dataLoader';
 import { Link } from 'react-router-dom';
+import { getRecipes } from '../utils/dataLoader';
+import { Recipe } from '../types/recipe';
 import { Ingredient } from '../types/pokemon';
 
 interface RecipeListProps {
   availableIngredients?: Ingredient[];
+  selectedCategory: 'curry' | 'dessert' | 'salad';
+  onCategoryChange: (category: 'curry' | 'dessert' | 'salad') => void;
 }
 
-const RecipeList: React.FC<RecipeListProps> = ({ availableIngredients }) => {
+const RecipeList: React.FC<RecipeListProps> = ({ availableIngredients, selectedCategory, onCategoryChange }) => {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [isLoading, setIsLoading] = useState(false);
-  const [selectedCategory, setSelectedCategory] = useState<'curry' | 'dessert' | 'salad'>('curry');
 
   useEffect(() => {
     const loadRecipes = async () => {
@@ -47,19 +49,19 @@ const RecipeList: React.FC<RecipeListProps> = ({ availableIngredients }) => {
     <div className="space-y-6">
       <div className="flex gap-4 justify-center">
         <button
-          onClick={() => setSelectedCategory('curry')}
+          onClick={() => onCategoryChange('curry')}
           className={`px-4 py-2 rounded ${selectedCategory === 'curry' ? 'bg-blue-500 text-white' : 'bg-gray-200 text-black'}`}
         >
           카레
         </button>
         <button
-          onClick={() => setSelectedCategory('dessert')}
+          onClick={() => onCategoryChange('dessert')}
           className={`px-4 py-2 rounded ${selectedCategory === 'dessert' ? 'bg-blue-500 text-white' : 'bg-gray-200 text-black'}`}
         >
           디저트
         </button>
         <button
-          onClick={() => setSelectedCategory('salad')}
+          onClick={() => onCategoryChange('salad')}
           className={`px-4 py-2 rounded ${selectedCategory === 'salad' ? 'bg-blue-500 text-white' : 'bg-gray-200 text-black'}`}
         >
           샐러드

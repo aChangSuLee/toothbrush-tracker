@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react';
 import { Pokemon } from '../types/pokemon';
 import { getPokemons } from '../utils/dataLoader';
@@ -34,7 +35,7 @@ const PokemonSelectModal: React.FC<PokemonSelectModalProps> = ({ isOpen, onClose
 
   useEffect(() => {
     if (searchTerm) {
-      const filtered = pokemons.filter(pokemon => 
+      const filtered = pokemons.filter(pokemon =>
         pokemon.name.toLowerCase().includes(searchTerm.toLowerCase())
       );
       setFilteredPokemons(filtered);
@@ -46,12 +47,12 @@ const PokemonSelectModal: React.FC<PokemonSelectModalProps> = ({ isOpen, onClose
   if (!isOpen) return null;
 
   return (
-    <div 
-      className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50" 
+    <div
+      className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50"
       onClick={onClose}
     >
-      <div 
-        className="bg-white p-6 rounded-lg shadow-xl w-96" 
+      <div
+        className="bg-white p-6 rounded-lg shadow-xl w-96"
         onClick={(e) => e.stopPropagation()}
       >
         <h2 className="text-xl font-bold mb-4 text-black">포켓몬 선택</h2>

@@ -1,10 +1,10 @@
 // src/App.tsx
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import RegisterPage from './pages/RegisterPage';
-import ListPage from './pages/ListPage';
-import DetailPage from './pages/DetailPage';
-import PokemonIngredientPage from './pages/PokemonPage';
-import RecipeListPage from './pages/RecipeListPage';
+import RegisterPage from './features/toothbrush/pages/RegisterPage';
+import ListPage from './features/toothbrush/pages/ListPage';
+import DetailPage from './features/toothbrush/pages/DetailPage';
+import PokemonIngredientPage from './features/pokemon/pages/PokemonPage';
+import RecipeListPage from './features/pokemon/pages/RecipeListPage';
 
 function App() {
   return (
@@ -30,7 +30,7 @@ function App() {
             </div>
           </div>
         </nav>
-        
+
         <main className="flex-1 w-full px-6 py-6">
           <div className="w-full h-full">
             <Routes>
