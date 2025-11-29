@@ -1,9 +1,10 @@
 
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
 import { getRecipes } from '../utils/dataLoader';
 import { Recipe } from '../types/recipe';
 import { Ingredient } from '../types/pokemon';
+
+import RecipeDetailModal from './RecipeDetailModal';
 
 interface RecipeListProps {
   availableIngredients?: Ingredient[];
@@ -14,6 +15,7 @@ interface RecipeListProps {
 const RecipeList: React.FC<RecipeListProps> = ({ availableIngredients, selectedCategory, onCategoryChange }) => {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [isLoading, setIsLoading] = useState(false);
+  const [selectedRecipe, setSelectedRecipe] = useState<Recipe | null>(null);
 
   useEffect(() => {
     const loadRecipes = async () => {
@@ -81,16 +83,23 @@ const RecipeList: React.FC<RecipeListProps> = ({ availableIngredients, selectedC
                 ))}
               </ul>
             </div>
-            <Link
-              to={`/recipe/${recipe.id}`}
+
+            <button
+              onClick={() => setSelectedRecipe(recipe)}
               className="mt-4 inline-block px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
             >
               상세 보기
-            </Link>
+            </button>
           </div>
         ))}
       </div>
-    </div>
+
+      <RecipeDetailModal
+        isOpen={!!selectedRecipe}
+        onClose={() => setSelectedRecipe(null)}
+        recipe={selectedRecipe}
+      />
+    </div >
   );
 };
 

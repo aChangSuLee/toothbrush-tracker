@@ -39,7 +39,6 @@ function App() {
               <Route path="/detail/:id" element={<DetailPage />} />
               <Route path="/pokemon" element={<PokemonIngredientPage />} />
               <Route path="/recipeList" element={<RecipeListPage />} />
-              <Route path="/recipe/:id" element={<RecipeListPage />} />
             </Routes>
           </div>
         </main>

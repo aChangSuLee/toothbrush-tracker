@@ -1,5 +1,7 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Recipe } from '../types/recipe';
+import { Pokemon } from '../types/pokemon';
+import { getPokemons } from '../utils/dataLoader';
 
 interface RecipeDetailModalProps {
     isOpen: boolean;
@@ -8,11 +10,42 @@ interface RecipeDetailModalProps {
 }
 
 const RecipeDetailModal: React.FC<RecipeDetailModalProps> = ({ isOpen, onClose, recipe }) => {
+    const [allPokemons, setAllPokemons] = useState<Pokemon[]>([]);
+    const [expandedIngredient, setExpandedIngredient] = useState<string | null>(null);
+
+    useEffect(() => {
+        if (isOpen) {
+            getPokemons().then(setAllPokemons);
+        }
+    }, [isOpen]);
+
     if (!isOpen || !recipe) return null;
+
+    // Logic to find pokemon for each ingredient
+    const getPokemonForIngredient = (ingredientName: string) => {
+        return allPokemons.filter(p => p.ingredients.some(i => i.name === ingredientName));
+    };
+
+    // Logic to find "Best Pokemon" (provides 2+ ingredients)
+    const getBestPokemon = () => {
+        const requiredIngredientNames = new Set(recipe.ingredients.map(ri => ri.ingredient.name));
+
+        return allPokemons.filter(p => {
+            const providedCount = p.ingredients.filter(i => requiredIngredientNames.has(i.name)).length;
+            return providedCount >= 2;
+        }).sort((a, b) => {
+            // Sort by how many ingredients they provide (descending)
+            const aCount = a.ingredients.filter(i => requiredIngredientNames.has(i.name)).length;
+            const bCount = b.ingredients.filter(i => requiredIngredientNames.has(i.name)).length;
+            return bCount - aCount;
+        });
+    };
+
+    const bestPokemons = getBestPokemon();
 
     return (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50">
-            <div className="bg-white rounded-lg p-6 w-full max-w-md m-4 relative shadow-xl">
+            <div className="bg-white rounded-lg p-6 w-full max-w-md m-4 relative shadow-xl max-h-[90vh] overflow-y-auto">
                 <button
                     onClick={onClose}
                     className="absolute top-4 right-4 text-gray-500 hover:text-gray-700 text-xl font-bold"
@@ -25,19 +58,57 @@ const RecipeDetailModal: React.FC<RecipeDetailModalProps> = ({ isOpen, onClose, 
                 <div className="space-y-4">
                     <h3 className="font-semibold text-lg text-gray-800 border-b pb-2">필요한 재료</h3>
                     <ul className="space-y-2">
-                        {recipe.ingredients.map((ri, idx) => (
-                            <li key={idx} className="flex justify-between items-center text-gray-700">
-                                <span className="flex items-center gap-2">
-                                    {/* Image placeholder if available, otherwise just name */}
-                                    {ri.ingredient.name}
-                                </span>
-                                <span className="font-medium bg-gray-100 px-2 py-1 rounded">
-                                    x{ri.quantity}
-                                </span>
-                            </li>
-                        ))}
+                        {recipe.ingredients.map((ri, idx) => {
+                            const providers = getPokemonForIngredient(ri.ingredient.name);
+                            const isExpanded = expandedIngredient === ri.ingredient.name;
+
+                            return (
+                                <li key={idx} className="flex flex-col text-gray-700">
+                                    <div
+                                        className="flex justify-between items-center cursor-pointer hover:bg-gray-50 p-1 rounded"
+                                        onClick={() => setExpandedIngredient(isExpanded ? null : ri.ingredient.name)}
+                                    >
+                                        <span className="flex items-center gap-2">
+                                            <span className="text-xs text-gray-400 mr-1">{isExpanded ? '▼' : '▶'}</span>
+                                            {ri.ingredient.name}
+                                        </span>
+                                        <span className="font-medium bg-gray-100 px-2 py-1 rounded">
+                                            x{ri.quantity}
+                                        </span>
+                                    </div>
+
+                                    {isExpanded && (
+                                        <div className="ml-6 mt-1 text-sm text-gray-600 bg-gray-50 p-2 rounded">
+                                            <p className="font-semibold mb-1 text-xs text-gray-500">획득 가능 포켓몬:</p>
+                                            <div className="flex flex-wrap gap-1">
+                                                {providers.slice(0, 10).map(p => (
+                                                    <span key={p.id} className="bg-white border px-1 rounded text-xs">
+                                                        {p.name}
+                                                    </span>
+                                                ))}
+                                                {providers.length > 10 && <span className="text-xs text-gray-400">...외 {providers.length - 10}마리</span>}
+                                            </div>
+                                        </div>
+                                    )}
+                                </li>
+                            );
+                        })}
                     </ul>
                 </div>
+
+                {bestPokemons.length > 0 && (
+                    <div className="mt-6 p-4 bg-green-50 rounded-lg border border-green-100">
+                        <h3 className="font-bold text-green-800 mb-2">추천 포켓몬 (효율 최고!)</h3>
+                        <p className="text-xs text-green-600 mb-2">이 레시피의 재료를 2가지 이상 가지고 있어요.</p>
+                        <div className="flex flex-wrap gap-2">
+                            {bestPokemons.map(p => (
+                                <span key={p.id} className="bg-white text-green-700 border border-green-200 px-2 py-1 rounded shadow-sm text-sm font-medium">
+                                    {p.name}
+                                </span>
+                            ))}
+                        </div>
+                    </div>
+                )}
 
                 <div className="mt-8 flex justify-center">
                     <button
