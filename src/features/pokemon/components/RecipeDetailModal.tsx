@@ -11,11 +11,14 @@ interface RecipeDetailModalProps {
 
 const RecipeDetailModal: React.FC<RecipeDetailModalProps> = ({ isOpen, onClose, recipe }) => {
     const [allPokemons, setAllPokemons] = useState<Pokemon[]>([]);
-    const [expandedIngredient, setExpandedIngredient] = useState<string | null>(null);
+    const [expandedIngredients, setExpandedIngredients] = useState<Set<string>>(new Set());
+    const [expandedPokemonLists, setExpandedPokemonLists] = useState<Set<string>>(new Set());
 
     useEffect(() => {
         if (isOpen) {
             getPokemons().then(setAllPokemons);
+            setExpandedIngredients(new Set()); // Reset on open
+            setExpandedPokemonLists(new Set()); // Reset on open
         }
     }, [isOpen]);
 
@@ -24,6 +27,27 @@ const RecipeDetailModal: React.FC<RecipeDetailModalProps> = ({ isOpen, onClose, 
     // Logic to find pokemon for each ingredient
     const getPokemonForIngredient = (ingredientName: string) => {
         return allPokemons.filter(p => p.ingredients.some(i => i.name === ingredientName));
+    };
+
+    const toggleIngredient = (name: string) => {
+        const newSet = new Set(expandedIngredients);
+        if (newSet.has(name)) {
+            newSet.delete(name);
+        } else {
+            newSet.add(name);
+        }
+        setExpandedIngredients(newSet);
+    };
+
+    const togglePokemonList = (ingredientName: string, e: React.MouseEvent) => {
+        e.stopPropagation(); // Prevent toggling the ingredient section
+        const newSet = new Set(expandedPokemonLists);
+        if (newSet.has(ingredientName)) {
+            newSet.delete(ingredientName);
+        } else {
+            newSet.add(ingredientName);
+        }
+        setExpandedPokemonLists(newSet);
     };
 
     // Logic to find "Best Pokemon" (provides 2+ ingredients)
@@ -53,20 +77,28 @@ const RecipeDetailModal: React.FC<RecipeDetailModalProps> = ({ isOpen, onClose, 
                     &times;
                 </button>
 
-                <h2 className="text-2xl font-bold mb-6 text-center text-black">{recipe.name}</h2>
+                <div className="text-center mb-6">
+                    <h2 className="text-2xl font-bold text-black mb-1">{recipe.name}</h2>
+                    <span className="inline-block bg-yellow-100 text-yellow-800 text-sm px-3 py-1 rounded-full font-semibold">
+                        ⚡️ 에너지: {recipe.energy.toLocaleString()}
+                    </span>
+                </div>
 
                 <div className="space-y-4">
                     <h3 className="font-semibold text-lg text-gray-800 border-b pb-2">필요한 재료</h3>
                     <ul className="space-y-2">
                         {recipe.ingredients.map((ri, idx) => {
                             const providers = getPokemonForIngredient(ri.ingredient.name);
-                            const isExpanded = expandedIngredient === ri.ingredient.name;
+                            const isExpanded = expandedIngredients.has(ri.ingredient.name);
+                            const isListExpanded = expandedPokemonLists.has(ri.ingredient.name);
+                            const showCount = isListExpanded ? providers.length : 10;
+                            const hasMore = providers.length > 10;
 
                             return (
                                 <li key={idx} className="flex flex-col text-gray-700">
                                     <div
                                         className="flex justify-between items-center cursor-pointer hover:bg-gray-50 p-1 rounded"
-                                        onClick={() => setExpandedIngredient(isExpanded ? null : ri.ingredient.name)}
+                                        onClick={() => toggleIngredient(ri.ingredient.name)}
                                     >
                                         <span className="flex items-center gap-2">
                                             <span className="text-xs text-gray-400 mr-1">{isExpanded ? '▼' : '▶'}</span>
@@ -81,12 +113,27 @@ const RecipeDetailModal: React.FC<RecipeDetailModalProps> = ({ isOpen, onClose, 
                                         <div className="ml-6 mt-1 text-sm text-gray-600 bg-gray-50 p-2 rounded">
                                             <p className="font-semibold mb-1 text-xs text-gray-500">획득 가능 포켓몬:</p>
                                             <div className="flex flex-wrap gap-1">
-                                                {providers.slice(0, 10).map(p => (
+                                                {providers.slice(0, showCount).map(p => (
                                                     <span key={p.id} className="bg-white border px-1 rounded text-xs">
                                                         {p.name}
                                                     </span>
                                                 ))}
-                                                {providers.length > 10 && <span className="text-xs text-gray-400">...외 {providers.length - 10}마리</span>}
+                                                {hasMore && !isListExpanded && (
+                                                    <button
+                                                        onClick={(e) => togglePokemonList(ri.ingredient.name, e)}
+                                                        className="text-xs text-blue-500 hover:underline bg-transparent border-none p-0 cursor-pointer"
+                                                    >
+                                                        ...외 {providers.length - 10}마리 (더 보기)
+                                                    </button>
+                                                )}
+                                                {hasMore && isListExpanded && (
+                                                    <button
+                                                        onClick={(e) => togglePokemonList(ri.ingredient.name, e)}
+                                                        className="text-xs text-gray-400 hover:text-gray-600 bg-transparent border-none p-0 cursor-pointer ml-1"
+                                                    >
+                                                        (접기)
+                                                    </button>
+                                                )}
                                             </div>
                                         </div>
                                     )}

@@ -10,4 +10,5 @@ export interface Recipe {
   name: string;
   recipeName: string;
   ingredients: RecipeIngredient[];
+  energy: number;
 } 

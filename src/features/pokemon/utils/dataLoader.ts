@@ -62,6 +62,7 @@ interface RecipeData {
     name: string;
     amount: number;
   }>;
+  energy: number;
 }
 
 export const getRecipes = async (recipeType: string): Promise<Recipe[]> => {
@@ -89,7 +90,8 @@ export const getRecipes = async (recipeType: string): Promise<Recipe[]> => {
       id: recipe.id,
       name: recipe.name,
       recipeName: recipe.name,
-      ingredients
+      ingredients,
+      energy: recipe.energy
     };
   });
 
